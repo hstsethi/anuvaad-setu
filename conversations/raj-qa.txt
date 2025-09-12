@@ -1,0 +1,129 @@
+id: sample_001
+intent: fees_deadline
+language: raj
+user_utterance: Fees ri last date koni hai ne late fine kitno lagse?
+response: Fees ri last date 30 September hai. Late fine ₹500 pr month lag sakto hai. Hor madad khatar admission office: admission@college.edu
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: college_circular_2025
+
+id: sample_002
+intent: apply_scholarship
+language: raj
+user_utterance: Mhine merit scholarship khatar apply karno hai
+response: Merit scholarship ro form college website par milse. Jaruri docs: latest marksheet, passport-size photo, income certificate (jo lagu ho). Last date 15 October hai. Main link bhejau?
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: scholarship_notice_2025
+
+id: sample_003
+intent: timetable_request
+language: raj
+user_utterance: Mhine mharo semester ro timetable mil sakto hai?
+response: Tharo course ro naam batawo.
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: website_update_2025
+
+id: sample_004
+intent: timetable_request
+language: raj
+user_utterance: BCA ro timetable bhejo
+response: BCA ro updated timetable website par upload ho giyo hai. Link bheju? (haan/na)
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: website_update_2025
+
+id: sample_005
+intent: hostel_allotment
+language: raj
+user_utterance: Hostel allotment ri process su hai ne room preference kem bharnu hai?
+response: Hostel allotment khatar online form bharo, preference mein 1–3 choices likhjo. Jaruri docs: ID proof, admission letter. Warden office: warden@college.edu
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: hostel_notice_2025
+
+id: sample_006
+intent: exam_center_change
+language: raj
+user_utterance: Mhine exam centre badalvano hai — request kem bheju?
+response: Exam centre change khatar online request form bharo ne justification likhjo. Exams office: exams@college.edu. Special cases mein staff involve ho sake hai.
+fallback_flag: false
+escalation_flag: true
+pii_flag: false
+source: exam_circular_2025
+
+id: sample_007
+intent: internship_certificate
+language: raj
+user_utterance: Internship certificate milva mein kitna time lagse?
+response: Internship certificate aam taur par 10–14 working days mein issue ho jave hai supervisor approval pachhi. Internship cell: internships@college.edu
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: training_cell_2025
+
+id: sample_008
+intent: assignment_extension
+language: raj
+user_utterance: Assignment extension khatar request ro sample email batawo
+response: Subject: Assignment Extension Request — Sir/Madam, mharo naam ___ (course ___). Mhine deadline extend karvano request karu chu kyunki ___. Mehrbani kari ne navi deadline batawo. Shukriya.
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: student_handbook_2025
+
+id: sample_009
+intent: library_renewal
+language: raj
+user_utterance: Library book renew karva late fine kitno hai ne online renew ho sake hai?
+response: Late fine Rs.10 pr din hai. Online renew portal: library.college.edu/renew. Agar item hold par hai to renewal na hove. Library contact: library@college.edu
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: library_notice_2025
+
+id: sample_010
+intent: degree_verification
+language: raj
+user_utterance: Degree verification/duplicate marksheet khatar application process ne fees batawo
+response: Duplicate marksheet/verification khatar application form exam cell par milse. Fee ₹200 pr copy hai. Processing time 15 working days hai. Exam cell: exams@college.edu
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: exam_circular_2025
+
+id: sample_011
+intent: grievance_escalation
+language: raj
+user_utterance: Mhine exam grievance file karni hai procedure batawo, ne agar urgent hai to kem escalate karu?
+response: Grievance khatar online grievance form bharo ne supporting docs upload karo. Agar urgent case hai to subject line mein "URGENT GRIEVANCE" likhjo ne email exams@college.edu par bhejo; escalation_flag true — staff review 48 hours mein jaruri hai.
+fallback_flag: false
+escalation_flag: true
+pii_flag: false
+source: grievance_policy_2025
+
+id: sample_012
+intent: out_of_scope
+language: raj
+user_utterance: Mhine novel padno hai — koi recommendation?
+response: Maaf karjo — mhun sirf college sambandhit madad kari sakun chu.
+fallback_flag: true
+escalation_flag: false
+pii_flag: false
+source: demo_policy
+
+id: sample_013
+intent: report_pii
+language: raj
+user_utterance: Mharo Aadhaar number 1234-5678-9123 chat mein gayo hai, un delete karva do
+response: Maaf karjo — mhun sensitive personal info chat mein store/echo na karu. Mhine thari request escalate kari didi hai ne thare ne secure email instructions bheji jase. Kirpa kari ne hor koi personal detail chat mein na bhejo.
+fallback_flag: false
+escalation_flag: true
+pii_flag: true
+source: sample_014
