@@ -1,0 +1,129 @@
+id: sample_001 
+intent: fees_deadline
+language: odiya
+user_utterance: Fees ra sesa tarikh kebe achhi ne late fine kete lagiba?
+response: Fees ra sesa tarikh 30 September. Late fine ₹500 prati maas lagipare. Adhika sahayata pain Admission Office: admission@college.edu
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: college_circular_2025
+
+id: sample_002
+intent: apply_scholarship
+language: odiya
+user_utterance: Mu merit scholarship pain apply kariba ku chahen
+response: Merit scholarship ra form college website re miliba. Aabasyak document: sesa marksheet, passport size photo, income certificate (jadi prasangik). Sesa tarikh 15 October. Mu link pathaidebi ki?
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: scholarship_notice_2025
+
+id: sample_003
+intent: timetable_request
+language: odiya
+user_utterance: Mora semester ra timetable milipariba ki?
+response: Apananka course ra naam kahantu.
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: website_update_2025
+
+id: sample_004
+intent: timetable_request
+language: odiya
+user_utterance: BCA ra timetable pathantu
+response: BCA ra updated timetable website re upload heichi. Link pathaidebi ki? (haan/na)
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: website_update_2025
+
+id: sample_005
+intent: hostel_allotment
+language: odiya
+user_utterance: Hostel allotment ra process kemiti achhi ne room preference kemiti bharibi?
+response: Hostel allotment pain online form bharantu, preference re 1–3 choice lekhantu. Aabasyak document: ID proof, admission letter. Warden office: warden@college.edu
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: hostel_notice_2025
+
+id: sample_006
+intent: exam_center_change
+language: odiya
+user_utterance: Mu exam centre badalaiba ku chahen — request kemiti pathaibi?
+response: Exam centre change pain online request form bharantu ne justification lekhantu. Exams office: exams@college.edu. Bisesa case re staff involve heiparanti.
+fallback_flag: false
+escalation_flag: true
+pii_flag: false
+source: exam_circular_2025
+
+id: sample_007
+intent: internship_certificate
+language: odiya
+user_utterance: Internship certificate miliba ku kete samaya lagiba?
+response: Internship certificate sadharanata 10–14 working days re issue heithae supervisor approval pare. Internship cell: internships@college.edu
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: training_cell_2025
+
+id: sample_008
+intent: assignment_extension
+language: odiya
+user_utterance: Assignment extension pain request ra sample email dekhantu
+response: Subject: Assignment Extension Request — Sir/Madam, mora naam ___ (course ___). Mu deadline extend kariba ku request karuchi karana ___. Krupaya nua deadline janantu. Dhanyabad.
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: student_handbook_2025
+
+id: sample_009
+intent: library_renewal
+language: odiya
+user_utterance: Library book renew kariba re late fine kete achhi ne online re renew heiba ki?
+response: Late fine ₹10 prati dina. Online renew portal: library.college.edu/renew. Jadi item hold re achhi tahele renew heibani. Library contact: library@college.edu
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: library_notice_2025
+
+id: sample_010
+intent: degree_verification
+language: odiya
+user_utterance: Degree verification/duplicate marksheet pain application process ne fees kahantu
+response: Duplicate marksheet/verification pain application form exam cell re miliba. Fee ₹200 prati copy. Processing time 15 working days. Exam cell: exams@college.edu
+fallback_flag: false
+escalation_flag: false
+pii_flag: false
+source: exam_circular_2025
+
+id: sample_011
+intent: grievance_escalation
+language: odiya
+user_utterance: Mu exam grievance file kariba ku chahen process kahantu, ne jadi urgent hele kemiti escalate karibi?
+response: Grievance pain online grievance form bharantu ne supporting document upload karantu. Jadi urgent case hela tahele subject line re "URGENT GRIEVANCE" lekhantu ne email exams@college.edu ku pathantu; escalation_flag true — staff review 48 ghanta bhitare darkar.
+fallback_flag: false
+escalation_flag: true
+pii_flag: false
+source: grievance_policy_2025
+
+id: sample_012
+intent: out_of_scope
+language: odiya
+user_utterance: Mu upanyasa padhiba ku chahen — kichi recommendation achhi ki?
+response: Khama karantu — mu kebala college sambandhita sahayata kariparibi.
+fallback_flag: true
+escalation_flag: false
+pii_flag: false
+source: demo_policy
+
+id: sample_013
+intent: report_pii
+language: odiya
+user_utterance: Mora Aadhaar number 1234-5678-9123 chat re galaa, seta delete karidebantu
+response: Khama karantu — mu sensitive personal info chat re store/echo kareni. Mu apananka request escalate karideichi ne apananku secure email instruction pathaijiba. Krupaya au kichi personal detail chat re na pathantu.
+fallback_flag: false
+escalation_flag: true
+pii_flag: true
+source: sample_014
