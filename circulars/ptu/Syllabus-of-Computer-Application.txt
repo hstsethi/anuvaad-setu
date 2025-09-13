@@ -1,0 +1,1224 @@
+I.K. GUJRAL PUNJAB TECHNICAL UNIVERSITY
+Estd. Under Punjob Technical Univercil), Act, 1996
+(Punjab Act No, I of 1997)
+Ref. No. : I KG PTU/Reg/|,,U
+
+Dsted :
+
+NOTIFICATION
+Sub: Regarding Pre-Ph.D Course work.
+
+This is for information of all concerned that Pre-Ph.D course work from 2016-17 will be
+conducted in the IKGPTU main campus Kapurthala in regular mode. The PhD course work
+will consists of minimum 15 credits. The structure of the course work is as under.
+credits
+4
+
+Remarks
+
+The syllabus of RM should be
+formulated faculty wise such as
+Engineering, Science, Management/
+Humanities_and Life sciences
+
+4
+
+_
+
+Discipline speciflc related to
+advancements in theoretical methods
+
+for research
+
+Total Minimum credits
+
+3
+
+Discipline specific
+
+4
+
+From list of subjects from allied fields
+
+15
+
+-54-
+
+Registrar
+Endorsement No: IKGPTU/REG/N/ U2qU- qLt/
+
+ou,"O. 22.qi.zol 6
+
+1. Secretary to Vice Chancellor: For kind infoimation of Vice Chancellor
+
+2. Dean (P&D)
+3. Dean (RIC)
+4. Dean (Academics)
+5. Finance Officer
+6. Controller of Examination
+7.-pR (Computers): For uploading on website
+.81 rile copy
+
+k,t'-
+
+I. K. Gujml Punj(b Technical IJniversily, Jalondhar
+Jalondhar Kapu halo llighwuy, Near Pushpa Gujrol Science CiO, Kapu hala - 111 603
+Ph. No.01822 - 662521.662501 l;a-r No. : 01822-255506.662526. Emqil : rcsistrm(dntu.ac.in
+
+Pre Ph.D. Course in Computer Science Engineering
+Schematic and SYllabus
+
+Ttre svttaUus of RM should be formulated
+
+Discipline
+Specific subjects
+
+l.Cloud ComPuting
+
+2. Advanced ConcePts in lmage
+Processing
+3. Advanced lnforrnation Securitl
+4. Modelling and Sirnulation
+5. Data Warehousing and Data Mining
+6. Mobile ComPuting Technologres
+7. Network Securiry and Cryptography
+8. Advanced Software Engineering
+
+9. Advanced Computer Architecture
+10. Advanced Database systems
+I
+
+l.
+
+Advanced Data structure &
+
+Algorithms
+l2.Soft ComPuting
+13. Advanced OPerating SYstenrs
+14. Big Data Analytics
+
+Discipline specific
+Interdisciplinary
+
+F,onr tist ofsub.lects from allied fields
+
+LAdvanced Data Communication
+2.lnternetworking
+-techniques
+3.Optimization
+4. Adhoc Wireless and Sensor Networks
+5. Neural Networks an$ FLrzzy Lt'rgic
+6. Mathematical Founliif n:,of CornPuter
+
+NetworKs
+
+| ,.
+
+I
+
+Total Minimum credits
+
+V
+
+N"!"L-
+
+?rc,,tae.
+
+LTP
+003
+
+Paper Title: Research Presentation
+
+Research Scholar will have to present a seminar based upon his/her research area.
+Performance of the scholar and oarticination in seminar will be taken into consideration.
+
+L'tP
+400
+
+Pre Ph.D. Coursc in Computer Sciencc and Engineering
+Research Mcthodology
+
+l. lntroduction Research Methodology: Definition of Research, Need of Research, Concept
+and steps of Research Methodology , Uses of Research Methodology, Research Techniques.
+Reviewing Literature: Need, Sources-Primary and Secondary, Purposes of Review. Scope o1'
+Review. Steps in conducting review.
+2. Identifying and defining research problem: Locating. Analyzing stating and evaluating
+ploblcnr. Geuerating different t.vpes of hypotheses and evaluating them. Method of Research:
+Descriptive research design-suruey. case study, contenl analysis, Ex-post Facto Research.
+Correlational and Experimental Research.
+3. Sampling Techniques : Concept of population and sample' sampling techniques-sinrple
+randorn sampling. stratified randonr sampling. systematic sampling and cluster sanrpling.
+quota sarnpling techniques determining size of sample. Procedure of data collection: Aspccts
+of data collection. Techniques of data Collection
+4. Statistical Methods of Analysis: Descriptive statistics: Meaning, graphical representatiorls.
+nlean, range and standard deviation. characteristics and uses of normal curve. lnf-etential
+statistics: t{est. Chi-square tests. Correlation (rank dif'ference and product moment), ANOVA
+(0ne way).
+5. Procedure for writing a research proposal and repoft: Purpose, types and components ol'
+research proposal, Audiences and types of research repofis, Format of Research report and
+journal.
+Case Studies on s/w tools used for research work.
+Books:
+
+l. C.R. Kothari. "Research Methodology - Methods and Techniques", Wiley Eastern l-td
+2009
+
+2. Richard I. Levin, David S. Rubin. Statistics for Management (7th Edition), Pearson
+Education India.
+3. K. N. Krishnaswamy. Appa lyer Sivakumar. M. Mathirajan-" Management Resealch
+-fechniques,
+Pearson, 2006
+Mcthodology,: Integration of Methods and
+4. S.P Gupta."Statistical Methods". Sultan Chand & Sons. 2006
+
+?t *d aa
+
+L-IP
+400
+
+Pre Ph.D. Course in Computer Science and Engineering
+Cloud ComPuting
+
+L c'loud computing Basics: cloud computing overview; characteristics: Applications;
+Internet and Cloud; Benefits; Limitations; Challenges.
+2. 6loud computing Services and Deployment Models: Infrastructure as a Service; Platform
+as a Service; Software as a Service; Private cloud; Public cloud; Community cloud; Hybrid
+Cloud.
+
+i. cloud computing vs other computing Technologies: overview of Grid, Peer-to-Peer,
+
+Pervasive and Utility Computing technologies; their characteristics and comparison between
+them.
+.{. Accessing the cloud: Hardware and lnfrastructure requirements; Access Mechanistns:
+web Applications, web APls. web Browsers. Cloud Storage and cloud Standards:
+Or,erview; Storage as a Service; Cloud Storage lssues; Challenges; Standards.
+5. Security Issues: Securing the Cloud. Securing Data, Establishing identity and presence.
+Developing Applications: Major Players in Cloud Business; Overview of Service Oriented
+Architecture; Tools for developing cloud services and applications.
+6. lntroduction to Google App Engine, Azure Services Platlbrm, Amazon EC2. Amazon 53.
+Migrating to the Cloud: Overview; Issues; Approaches.
+
+Books
+
+l. Arrthony T. Velte, Toby J. Velte, and Robert Elsenpeter, Cloud Computing: A Practical
+
+Approach, McGraw Hill, 2010.
+
+l. Ilajkumdr Buyys, James Broberg. Andrzej Goscinskt (Editors), Cloud Computing:
+Principles and Paradigms, Wiley,201l. ,..
+l. Barrie Sosinsky. Cloud Computing Bible, Wiley,2011'
+
+4. .ludith Hurwitz, Robin Bloor, Marcia Kaufman, Fern Halper' Cloud Computing fbr
+Durnmies, Wiley, 2010.
+5- Borko Furht. Armando Escalante (Editors). Handbook of Cloud Cornputing. Springer,
+
+l0l 0.
+6. Diniitris N. Chorafas. CRC Press, Taylor and Francis Group' 2011
+
+\-t Q*N\'
+
+\-r4'>-
+
+fu- s &aa
+
+Pre Ph.D. Course in Computer Science and Engineering
+Advanced Concepts in Image Processing
+L
+
+T
+
+P
+
+4
+
+0
+
+0
+
+l. Introduction to Image Processing: Introduction to Digital Image Processing. Examples ancl
+Conrponents of Digital Image Processing. Digital Image fundamentals: Elements of Visual
+Perceptior.r. Light and the Electromagnetic Spectrum. Image Sensing and Acquisition. lmage
+Sampling and Quantization. Basic Relationships Between Pixels, Linear And Nonlinear
+Opcratiorrs. Color Models.
+2. Irrrage Enhancements and Restoration: Gray Level Trarrsfbrmations, Histograrl
+Processing. Enhancement Using Spatial Filtering: Smoothing Filters. Sharpenirrg [iiltcrs.
+lnrage linhancement in the trequency domain: Introduction to the Fourier l'ranslirrnr
+Smoothing filtels. Sharpening Filters. Hontonrorphic Filtering, lmage Restoration : Inrage
+Degradation/ Restoratiorr Process, Noise Models, Periodic Noise Reduction by Frequerrcl
+Domain filtering, Linear, Position-lnvariant Degradations, Estimating the degradalion
+Function, Inverse Filtering, Minimum Mean Square Enor(Wiener)Filtering, Corrstlained
+Least Squares Filtering, Morphological Image Processing.
+3. Imagc Compression and wavelets: fundamentals, image compression models. elements of
+information theory', error free compression lossy compression, image compression standardsColor Fundamentals. Wavelets and multiresolution processing: multiresolution expansions.
+wavelcts transfbrms in one dimension. the last wavelet transform, wavelets transfbrms in tuo
+dimensions. rvavelet oackets.
+lmage Segnrentation, Recognition and Analysis: Image Segmentation : Detection of 4.
+Discontinuities. Edge Linking and Boundary Detection. Thresholding. Region- 13ascd
+Segnrentation. Representation and Description :Boundary descriptors. Regional Descliptors,
+Use of Principal Components lor Description . Relational Descriptors. Object Recognition :
+Patterns and Pattern Classes, Recognition Based on Decision- Theoretic Methods. Structural
+Methods. Case studies on research areas related to image processing.
+Books:
+l. Gonzalez and Woods, "Digital lmage Processing" ISDN 0-201-600-781, Addison Wcsley
+1992.
+2. Trucco & Verri. "Introductory techniques for 3-D Computer Vision", Prentice Hall.
+3. Jain. A.K. Kasturi and Scunk. "Fundamental of Digital Image Processing". Tata \'{c-
+
+Graw-Hill 1995.
+.J. Sonka. IIlarac. Bollc. "lnragc Processing. Arrallsis and Machine Vision" 2nd ed. I'\\'S
+Publishing. 1999.
+5. Madhuri A. Joshi."Digital Image Processing: An Algorithmic Approach ",PHI learning
+private limited.
+6. S. Jayaraman. S.Esakkirajan. T. Veerakunrar." Digital Image Processing".Tata Mc(ira*
+Hill.20l 0
+
+'
+t\r.... y n "N-* r \r/
+\"
+u*qctu \ $""''(
+
+Pre Ph.D. Course in Computer Science and Engineering
+Advanced Information SecuritY
+
+TP
+00
+
+L-
+
+4
+
+l. lntroduction to Security/Security Models: Introduction to Computer Securitl. Threats.
+
+Sccur.itl, Policy , Formal Model and Mechanism ,security Trends . Security Attacks, Trust
+Model ,
+an.1 assurance'. Confidentiality and lntegrity Model. Lattice Model ,Bell-LaPadulla
+Model
+, clark
+Access control Matrix Model ,HRU Model, lntegrity Model , Biba lntegrity
+wilson Model , originator controlled Access control, Role based Access control,Study of
+llnrerging Access Control Models.
+l. C':;p;graphy and Cryptosystem: Cryptography, Classical Cryptosystems, DES ' AES'
+i on1putationil vs. Unconditional (or Information-Theoretic) Security; One-Way Functions
+and Hash Functions; Design Principles; Examples: MD5, Secure Hash Algorithm (sHA- l ),
+ctc.: Hashing with Block Ciphers; MACs from Hash Functions , Public-Key Cryptography '
+Trapdoor Frinctions; Fast Exponentiation; Square-and-Multiply Algorithm; Diffie-Hellman
+K"1. Ag.e.ment Protocol, Siatus of Security; Riveslshamir-Adleman (RSA) System '
+Llliptic Curve Cryptosystems , Discrete Logarithm Algorithms , Digital Signatures: Digital
+Signatures Based on Discrete Logarithms, Public-Key certificates; Ke;' Management
+l'r'otucol. X.509,PGP,Study of Emerging Cryptography Techniques '
+Detectiol.l,
+-1. lntr.usion derection and prevention models for network security: lntrusion
+Attacks,
+Seculity
+Network
+Models. Archirecture, NIDS. HIDS. Network Security ,
+
+Applications of cryptography in Network Security: Encryption at Different oSl-Layers;
+('ode Based Vulnerabilities. Policy Deployment in Net\\ork
+4. Study of Emerging Intrusion Detection and Prevention Techniques , Protection in general
+pufpose operating Systems, Data base protection and security. Assurance and Tn-rsl. Ruilding
+Secure and Truited Systems, Software Design Assurance, Formal Methods, Formal
+Specification and Verification , Formal Specification Languages, Evaluation System C.riteria
+. 'l(.sEC ITSEC , Common Criteria, Disaster Recovery and Business continuity,
+Organisational Policies , Risk Management.
+Book
+l. Bishop, Matt: lntroduction to Computer Security. Addison-Wesley, Pearson Education,
+I
+
+nc.
+
+l. tr,illiam Stallings." Cryptography and Network Security Principles and Practice".
+f /e.l)earson Education.
+
+i. Michael. E. whitman and Llerberl J. Mattord ," Principles of lnformation Secr.rrit.v"
+4. William Stallings.'Network Security Essentials, Applications and Standards",Pearson
+.
+
+Education.
+5. J Pieprzyk.Thomas and Jennifer,"Fundamental of Computer Security",Springer'
+(r. Arthur and White."Principles of Computer Security",Tata Mcgraw Hill.
+
+\
+/\
+\lv
+!rt^o'
+t-/
+
+N.lP--
+
+ty s *aa
+
+Prc Ph,D. Computer Science and Engineering
+Modelling and Simulation
+L
+4
+
+'f
+0
+
+l. Introduction: What is modeling and simulation? Application areas, definition and types o1system. model and simulation, introduction to discrete-event and continuous simulation.
+2. Simulation Methods: Discrete-event Simulation, Time advance Mechanisms. Components
+and organization of Discrete-event simulation. Flowchaft of next-event time advance
+approach, Continuous Simulation. Random Number generation methods.
+3. Queuing Models: Single server queuing system, introduction to arrival and departure time.
+flo'uvcharts for arrival and departure routine. Event graphs ofqueuing model. Determining the
+events and variables.
+4. Distribution lrunctions: Stochastic activities. Discrete probability functior.rs. Cunrulatire
+distribution function, Continuous probability functions. Generation of random nunrbers
+following binorlial distribution. poisson distribution. continuous distribution. nolnral
+distribution. exponential distribution, unifbrm distribution.
+5. Programming in MATLAB: Introduction, Branching statements, loops, functions.
+additional data types, plots, anays, inputs/outputs etc.
+6. Programming in GPSS and C/C++: Basic lntroduction to Special Simulation Languages:
+GPSS and Implementation of Queuing Models using C/C++,
+7. Introduction to Simulators: Introduction regarding features and usage of any Nets'olk
+simulator.
+Books:
+1. Averill M.Law and W. david Kelton," Simulation Modeling and Analysis". Tata MccrawHill Publication.
+
+2. Geoffery Gordon." System Simulation", Prentice-Hall of tndia.
+3. D.S.Hira." Systern Simulation". S.Chand Publications
+4. Stephen J. Chaprnan," MATLAB Programming for Engineers", Thomson learning inc.
+5..lenv Banks. John S. Carson. Bany L. Nelson and David M. Nicol,"Discrete-Evenl Srstenr
+
+Simulation". Prentice-Hall of India.
+
+'' \)-
+
+\-'
+
+6P-\
+
+?^u-
+
+t &aa
+
+Pre Ph.D. Course in Computer Science and Engineering
+Data Warehousing and Data Mining
+
+I,TP
+400
+L lntroduction: lntroduction to RDBMS. Data Warehouse, Transactional Databases. Data
+
+M ining Functionalities. lnterestingness of pattern, classification of data mining systenl.
+
+IllaJor
+
+isstres.
+
+2. Data Warehouse and OLAP: Dilference from traditional databases, Multidimensional data
+model. Schema for Multi dimensional model, measures, colloept l.rierarchies, OL-AP
+oper.ations. stamet query model. Data warehouse architecture, RoLAP, MOLAP. HOLAP.
+Data Warehouse lmplementation, Data Cube, Metadata Repositories. OLAM'
+3. Data Processing: Data cleaning, Data Integration and Transformation, Data Reduction,
+Discretization and concept hierarchy generation.
+4. Data Mining Architecture: Data Mining primitives, Task relevant data, interestingness
+nteasures, presintation and visualization of patterns, Data Mining Architecture' Concept
+l)cscription, Data Generalization and Summarization, Attributed oriented induction,
+Analytical characterization, Mining class comparisons
+5. Aisociation Rules: Association rules mining, Mining Association rules lrom single level,
+multilevel transaction databases, multi dimensional relational databases and data warehouses,
+('orrelational analysis, Constraint based association mining.
+(r. C'lassification and Clustering: Classification and prediction. Decision tree inductlon.
+lla; esian classification. k-nearesr neighbour classitication" Cluster analysis. Types of data rn
+clustering, categorization of clustering methods.
+
+Books:
+
+L Data Mining: Concepts and Techniques By J.Han and M. Kamber' Morgan Kauf-man
+
+publisliers, Harcourt lndia pvt. Ltd. Latest Edition
+1. Data Mining Introductory and Advance Topics By Dunham. Pearson Education. Latest
+
+l:dition
+
+y*gN_
+
+\r^"-
+
+fuf I olae'
+
+Pre Ph.D. Course in Computer Science and Engineering
+Mobile Computing Technologies
+
+L
+4
+
+'l
+
+P
+
+tJ
+
+l. Introcluctior.r to Mobile Computing Architecture Mobile Computing - Middleware ano
+Gateway's - Application and Sen'ices - Developing Mobile Computing Applications
+Security in Mobile Computing - Architecture fbr Mobile Computing - Three Tier'
+Ar.chitecture - Design considerations for Mobile Computing - Mobile Computing tlrrough
+
+lnternet - Making existing Applications Mobile Enabled. Cellular Technologies: GSM' GPSGPRS, CDMA and 3G Bluetooth - Radio Frequency Identification - Wireless Broadband
+Mobile IP - Internet Protocol Version 6 (lPv6) - Java Card - GSM Architecture - (iSlVI
+Entities - call Routing in GSM - PLMN Interfaces - GSM addresses and Identiflers Netwolk aspects in (iSM Authentication atrd Security Mobile computing over SMS
+GPRS and Packet Data Network, GPRS Network Architecture - GPRS Network Operations
+- Data Services in GPRS - Applications for GPRS - Limitations of GPRS.
+2. Wireless Application Protocol (WAP) and Wireless LAN WAP MMS - Wireless l.AN
+Advantages - IEEE 802.1 I Standards - wireless LAN Architecture - Mobility in u,ireless
+LAN Intelligent Networks and lnterworking Introduction - Fundamentals of Call processing
+- Intelligence in the Networks - SS#7 Signaling.
+3. Client Programming. Palm OS. Symbian OS. Win CE Architecture Introduction N'loYing
+be,vond the Desktop - A Peek under the Hood: Hardware Overview - Mobile phones PDA
+- Design Constraints in Applications for Handheld Devices - Palm OS architecturefbr'
+Application Dcvelopment Multimedia - Symbian OS Architecture - Applications
+Symbian, Different flavors of Windows CE -Windows CE Architecture J2ME JAVA in the
+Handset - 1'he l hree-prong approach to .lAvA Everywhere, JAVA 2 Micro Edition (.l2ME)
+technology - Programming for CLDC - GUI in MIDP - UI Design Issues.
+4. Voice over lnternet Protocol and Convergence Voice over IP- H.323 Framework fbr Voice
+over IP - Scssion lnitiation Protocol - Comparison between H.323 and SIP - Real Timc
+protocols - Convergence Technologies - Call Routing - Voice over IP Applications IP
+multirredia subsystem (lMS) - Mobile VolP Security lssues in Mobile Computing.
+
+BOOKS: l. Mobile Con.rputing - Technology, Applications and Service creation - Asoke K
+Talukdcr. Roopa R Yavagal, 2009, TATA McGraw Hill
+2. Mobile Communications .lochen Schiller - 2nd Edition - Pearson Education
+3. The CIDMA 2000 System for Mobile Communications - Vieri Vaughi, Alexander Damn
+Jaonvic - Pcarson
+4. ADAI-ESTEIN : Fundamentals oiMobile & Parvasive Computing, 2008' TMH
+
+\o
+?,.g,
+
+I 6aa
+
+Pre Ph.D. Course in Computer Science and Engineering
+Network Security and Cryptography
+
+I-TP
+.1 00
+A
+l. Introduction: Attacks, Services and Mechanisms, Security attacks, Security services'
+model,
+
+Model for Internetwork security. classical Techniques: conventional Encryption
+Steganography, Classical Encryption Techniques . -
+
+standard,
+i. fro6"in t""h.iqu"r, Simplified DES, Blo;k Cipher principles, Data Encryp_tion
+Principles and
+
+strength of DES. pifferential and Linear cryptanalysis, Block cipher Design
+voJ.? of operations. Atgorithms: Triple D-ES, International Data Encryption algorithm.
+block cifers
+Ulorvllsh. n'CS. C,CST-t28, RC2, Characteristics of Advanced Symmetric
+Key
+conr cr]tional Encryption:Placement of Encryption function, Traffic contldentiality,
+RSA
+distribution, Random Number Generation. Public Key Cryptography:Principles, .
+Algorithm, Key Management, Diffie-Hellman Key exchange' Elliptic Curve Cryptography'
+Fermat's and
+:.'Nun.,bei theory: prime and Relatively prinre numbers, Modular arithmetic,
+theorem'
+Euler's theorems, Testing for primality,. Euclid's Algorithm, the chinese remainder
+requirements
+Discrete logarithms. Message authentication and Hash tunctions:Authentication
+and
+and functions, Message Authentication. Hash functions, Security of Hash f'unctions
+
+MA( s.
+
+.1. Hash and Mac Algorithms: MD File, Message digest Algorithm, Secure Hash Algorithm,
+
+RIPEMD-160, HMAC. Digital signatures and Authentication protocols: Digital signatures,
+;\uthentication Protocols, Digital signature standards. Authentication Applications: Kerberos,
+X.509 directory Authentication service.Electronic Mail Security: Pretty Good Privacy'
+S/MIME.
+5. Ip Security: overview, Architecture, Authentication. Encapsulating Security Payload,
+Combining security Associations, Key Management Web Security: Web Secttrity
+Secure sockets layer and Transport layer security' Secure. Electrontc
+''e..1uiremeits.Intruders. Viruses and Worms : lntruders, Viruses and Related threats Fire
+Tr.ausaction.
+Walls : Fire wall Design Principles' Trusted systems.
+
+BOOK:
+l. (iryptography and Network Security: Principles and Practice - William Stallings. 2000' PE'
+:. lri,iciptes'of Network and Systems Administration, Mark Burgess'John Wielly'
+
+\*9",-u
+
+\"1"--
+
+Aa l o8 aa,
+
+Pre Ph.D. Course in Computer Sciencc and Engineering
+Advanced Software Engineering
+
+L
+
+T
+
+P
+
+4
+
+0
+
+0
+
+L Softrrarc Projcct Managenrent: Sofiuare Project Planning and its characteristics. 'l 1pes ol'
+nretrics, Ellbrt Estimation- FP. LOC. FP vs. LOC. Schedule & Cost Ilstimation ModelsActivity Netr,",orks-PERT/CPM. COCOMO-I, COCOMO-II. Risk Assessmenr Probabilitl
+Matrix, Risk Management. Agile Methodology- Scrum and XP. Formal Methods: Basic
+concepts. mathematical preliminaries, Applying mathematical notions tbr formal
+specification. Formal specilication languages, using Z to represent an example sofiuale
+component. the ten commandments Of fbrmal methods. Formal methods- the road ahead.
+2. Component-Based Software Engineering: CBSE process, Domain engineerinu.
+Componentbased development, Classifying and retrieving components and economics ol'
+CBSE. Client/Server Software Engineering: Structure of client/server systems. Soliualc
+engineering for Client/Server systems, Analysis modeling issues, Design for Client/Serrcr
+s)stcms. I csting issues
+3. Web Engineering: Attributes Of web-based applications. the Web E process, a framework
+for Web F. Fornrulating. Anall.sing r.r,eb-based systenls. design and testing lor web-based
+applications, Management issues. Reengineering: Business process reengineering, Sotiuarc
+reengineering. Reverse reengineering. Restructuring. Forward reengineering. economics of
+reengineering.
+il. Sol'tu'arc Quality: CASE tools. metrics. Standards. Certification and Assessment. TQM.
+Bootstrap methodology. l'he SPICE project. ISO-lEC 15504, Six Sigma C'oncept lirr'
+Softu,are Qualitl'. Computer-Aided Soitware Engineering: Building Blocks fbr CAS[.
+taxonomy Of CASE tools, integrated CASE environments, lntegration architecture. and
+CASE repository.
+Books
+
+l. Software Engineering a Practitioners Approach. Roger S. Pressman, McGrar.r'Hill 8'r'
+
+Edition. 2014
+2. Formal Specification and Documentation testing - A Case Study Approach. J.Bowan
+lnternational Thomson Computer Press, 2003
+3. Softu'are Engineering for Embedded Systems: Methods. Practical and Applications. Robert
+Oshana. Mark Kracling. Newnes Publisher.20lS
+4. Software engineering an enginecring approach, James S. Peters, WitoldPedrycz. \\'ile1
+India. 201 1 .
+5. Softu'are Engineering Principles and Practice. Hans Van Vliet. Yded (WILEY). 2015
+
+\*N
+gu* \o Ek&
+
+v*'
+
+Pre Ph.D. Course in Computer Science and Engineering
+Advanced ComPuter Architecture
+
+LTP
+400
+l. Fundamentals of Processors: Instruction set architecture; single cycle processors,
+hardwired and micro-coded FSM processors; pipelined processors, multi-core processors;
+resolving structural, data, Control and name hazards; analyzing processor performance.
+
+2. Fundamentals of Memories: memory technology; direct-mapped, associative cache; writethrough and write-back caches; single-cycle, FSM, pipe-lined cache; Analyzing memory
+perlormance.
+
+3. Advanced Processors: Superscalar execution, out-of-order execution, register renamlng,
+memory disambiguation, dynamic instruction scheduling, branch prediction, speculative
+execution; multithreaded, VLIW and SIMD processors'
+4. Advanced Memories: non-blocking cache memories; memory protection, translation and
+virtualization; memory synchronization. consistency and coherence.
+Books:
+l. Cornputer Architecture: A Quantitative Approach, by J'L Hennessy and D.A Patterson.
+2. Digital Design. and Computer Architecture, by D.M Hanis and S'L Hanis.
+
+9-M-
+
+L*-v
+
+tr"f 11 dd,e'
+
+Pre Ph.D. Course in Computer Science and Engineering
+Advanced Database Svstems
+
+LTP
+400
+I . Data Base Analysis and Design Techniques: Review of basic Database Concepts. Database
+
+Design Methodologies. ER Modeling: Specialization. Generalization. Aggregattou.
+Normalization Iheory. Database Implemeutation using UML: lntroduction to UML.
+
+Structurc diagrams. behavioral diagrams, ob.iect oriented analysis. class diagram. Advanccd
+Transaction PrOcessing and Concunency Control: Transaction Concepts. Concurrency
+Control: Locking Methods. Timestamping Methods. Optinristic Methods for Concurrcn$
+Control. Concurrency Control in Distributed Systems.
+2. Query. Compiler: lntroduction. parsing. generating logical query plan from parse tree.
+Query Processing: Physical-Query-plan operators. operations: selection, sorting. .itrin.
+project, set. Query Evaluation: lntroduction, Approaches to Query Evaluation'
+Transformation of relational expressions in Query optimization, heuristic optimizatior,. cost
+estimation for various operations, transformation rule.
+3. Distributed Database Centralized DBMS and Distributed DBMS, functions and
+architecrure of a DDBMS. Distributed Data Storage, Transparency issues in DDBMS. Query
+Pr()cessing DDRMS. Distributed transaction Management and Protocols, Distributcd
+Concurrency Control and Deadlock Management. Object Oriented Database: Limitations of
+RDBMS, Need of Complex Datat;.pe. Data Definition. ODBMS Fundamentals. issues in
+OODBMS. Object-oriented database design. Comparison of ORDBMS and OODBMS'
+4. Emerging Database Models. Technologies and Applications Multimedia dalabaseEmergence. ]-emporal Databases. dil'lbrence fiom other data types, Structure' deductive
+databases. GIS and spatial databases, Knowledge database, Iniomation VisualizationWireless Netr.vorks and databases. Personal database. Digital libraries. u'eb databases- casc
+studies of the enrerging databases.
+
+Books:
+I . Distributed Databases by Ozsu and Valduriez ,Pearson Education.
+2. Fundamentals of Database Systems by RamezElmasri, ShamkantNavathe, Pearson
+Education
+3. Database S],stem Concepts by Abraham Silberschatz, Henry F' Korth, S Sudarshan' l ala
+
+McGraw-Hill.
+4. Advanced database management system by RiniChkrabarli and ShibhadraDasgupta.
+Dreamtech.
+5. An lntroduction to Database Systems. C J Date. Addison wesley Publishing companl,
+6. Arr Introduction to Data Systems. Bipin C. Desai. West Publishing Company'
+
+gN" v-l'
+Q',^t \ X KAA
+
+Pre Ph.D. Course in Computer Science and Engineering
+Advanced Data Structures & Algorithms
+
+TP
+00
+
+l
+
+l'AlgorithmsComplexityandAnalysis:RecurrenceRelations'ProbabilisticAnalysis'
+
+n'.,ori..d Analysis, competitive Analysis, lnternal and External Sorting algorithms: Quick
+
+sort' Polyphase
+Sort. lleap Sort, Merge Sort. Counting Sort' Bin Sort' Multi-way merge.l
+Red-Black
+rees,
+AVL
+Structures:
+,rr.,rging, i.u."t , Lin"ir, Binary, Hashing. Advanced Data
+Trecs. Splay Trees, B-trees, Fibonacci heaps,
+2. Data Structures for Disjoint Sets, Augmented Data Structures'
+Euler Graphs'
+3. (iraphs & Algorithms: Representation' Type of Graphs, Paths and Circuits:
+
+HamilionianPatis & Circuits; Cut-sets, dbnnectivity and Separability' Planar
+
+Graphs'
+
+breadth-first traversals.
+ir.r,.,.,orpt,irn-', Graph Coloring, Covering and Partitioning, Depth- and
+
+.1, Minimum Spanning Tree: prim's and Kruskal's algor.ithms, sho(est-path Algorithms:
+'nloyd.i
+algorithm. Topological sort, Max flow: Ford-Fulkerson algorithnl,
+l)ilkstra.s ana
+rlax flow min cut Problem.
+5. String Matching Algorithms: Sulfix arrays, Suffix trees. Rabin-Karp, Knuth-Morris-Pratt.
+BoyerMoore.
+algorithms: Need of approximation algorirhms: Introduction to P, NP, Nl'j6. ipproximation
+'antl
+Np-Complete; Deterministii, non-Deterministic Polynomial time algorithms;
+Harci
+Knapsack, TSP, Set Cover, Oper.r Problems.
+
+7'RandomizedAlgorithms:lntroduction,TypeofRandomizedAlgorithms,QuickSort.MinCut. l- SAT; Game Theoretic Techniques. Random Walks'
+lJooks:
+'l
+
+of India
+iromas coremen, "lntroduction to Algorithms", Third edition, Prentice Hall
+( 2009).
+3. Kleinberg J.. Tardos E', "Algorithm Design", lst Edition, Pearson' 2012'
+1995.
+3. MorwaniR., Raghavan P.,'iRandomized Algorithms", Cambridge University Press.
+4. Vazirani, Vijay V., "Approximation Algorithms", Springer, 2001'
+
+l.
+
+P Str\"
+
+\r"
+Q,-f ts dax
+
+Pre Ph.D. Course in Computer Science and Engineering
+Soft Computing
+
+LTP
+400
+l. Soli Computing: An introduction. Artificial Neural Netr.r'ork: An introduction, Superuiscd
+Learning Network: Perceptron Networks, Adaptive Linear Neuron, Multiple Adaptive Linear
+Neuron. Back Propagation Network and other networks, Associative memory networks.
+Unsupervised Learning Networks.
+
+2. Fuzzy Logic: lntroduction to Fuzzy logic, Classical Sets and Fuzzy Sets. Classical
+Relations and Fuzzy Relations, Membership functions, Defuzzification, Fuzzy Arithmetic
+and Fuzzy nreasures. Fuzzy Rule base and approximate reasoning, Fuzzy decision making
+3. Genetic Algorithm: An introduction, Traditional Optimization and Search Techniques. GA
+and Search Space, General GA, Operators in GA, Stopping Condition and GA llow.
+Constraints in GA, Classification of GA, Genetic Programming.
+
+4. Hybrid Soft Computing Techniques: An Introduction, Neuro-Fuzzy Hybrid Systems.
+Genetic Neuro-Hybrid systems, Genetic fuzzy Hybrid and fuzzy genetic hybrid systems.
+Books:
+I . Principals of Soft Computing by Sivanandam and S. N. Deepa, Wiley Publication.
+2. NEURAL NETWORKS. FUZZY LOGIC AND GENETIC ALGORITHM: SYNTHESIS
+AND APPLICATIONS By S. RAJASEKARAN, G. A, VIJAYALAKSHMI, PHI.
+3. lntroduction to Soft Computing By Samir Roy and Udit Chakraborty, Pearson.
+
+g"N*\F
+
+Q,,g. lq ddA
+
+Pre Ph.D. Course in Computer Science and Engineering
+Advanced OPerating SYstems
+
+LTP
+400
+in Distributed operatlng systems'
+l. Distributed operating system: Architectures, lssues
+logical clock' Global states' Chandy-
+
+Limitations of Distributed Systems, Lamport's
+Mutual Exclusion
+i",np.r,:, global state recording algoiithm'Basic concepts of Distributed
+of Distrib-uted deadlock
+.i",rip.nlr-nrg"rithm, Ricartelrariala Algorithm; .Basic concepts
+Network File system
+J.,..iion. Disriibuted File systeir. Architeciure. Design issues. SUN
+of Distributed-Scheduling'
+concepts of Distributed shared memory, Basic concepts
+
+t. B;r"
+
+Loadba|ancing.Loadsharing'DistributedResourceManagement:DistributedFile.systems.
+-Mechanisms.
+besign lssues, Distributed Shared Memory. Architecture,
+e."hit..tu..,
+Issues" Components'
+nigorithm, Protocols - Design lssues' Distributed - Scheduling'
+urigration' Rcmote
+,qig"ri,n.t. Distributed OS lmllementation: Models' Naming' Process
+,
+
+l'roccdure Calls.
+of Failures, Basrc
+Recovery and Fault Tolerance: Basic Concepts-Classification
+Synchronous and^Asynchrorous
+,lpproaches to Recouery; Recovery in Concunent- System;
+Database Systems; Fault
+Checkpointing and R""ou"ry; Check pointing. in ^Distributed
+i"r"."ir"", Islsues fto-pt u.. and Nonblocfing Commit Protocols; Voting Protocols:
+Dl namic Voting Protocols
+Interconnections. Types.
+J.',rrlutaipro".r."or System: Definition. Classification. Multiprocessor
+Issue;
+.lntroductiot]
+Multiprocessor OS functions & requirements; Design & lmplementation
+systems:
+p"i"ff"r programming; Multiprocessor Synchronization Real Time Operating
+application,
+embedded
+Fundamentals of real trme op".uting ,yrt"rnr, real time multitasking,
+intei-task communication and synchrotrization Anal)'tic
+
+i.lluif*"
+
+-
+
+i"
+
+oreer.'otive task scheduling,
+Mo,ieiing: Introductions. Queuing Theory, Markov Process
+
+Books:
+l. OperatingSystemsConcepts &design-MilanMilenkovic'TMH
+2. OperatingSystem- H.M' Deitel,Pearsons'
+l. e.t"un".iConcepts inoperatingSystems-Mukeshsinghal andNiranjanG'ShivaratriJMH
+
++.ivut..,t'SinghalandN.G.'S-hivaratri,..AdvancedConceptsinoperatingSystems.',
+McGraw- Hill, 2000
+Sixth
+5. Abraham Silberschatz, Peter B. Galvin, G. Gagne' "operating
+Addison n Wesley Publishing Co.,2003'
+
+J$-Y1^
+
+System concepts"'
+
+*s'
+?4 ts E&a-
+
+Pre Ph.D. Course in Computer Science and Engineering
+Bie Data Analvtics
+
+LIP
+400
+I . An Overview of Big Data and Big Data Analytics. Understanding Hadoop Ecosystem
+(Hadoop Distributed File System, MapReduce, Hadoop YARN, HBase, Combining LlBase
+and HDFS, Hive. Pig, Sqoop, ZooKeeper, Flume. Oozie). MapReduce f-ramework"
+Techriques to Optimize MapReduce Jobs, Role of HBase in Big Data Processing
+2. Developing Simple MapReduce Application. Points to Consider while Designing
+MapReduce. Controlling MapReduce Execution with InputFormat, Reading Data u,'irh
+Custom RecordReader, Organizing Output Data with OutputFormats, Customizing Data u'ith
+RecordWriter. Optimizing MapReduce Execution with Combiner. Controlling Reducer
+Execution with Partitioners.
+3. \'ARN Architecture. Working of YARN, YARN Schedulers. Backward Compatibilitl
+u'ith YARN. YARN Configurations. Commands. Containers. Introduction to NoSQL. Tl pcs
+of NoSQL Data Models, Schema-Less Databases, Materialized Views. Distribution Models.
+4. Analytical Approaches, lntroducing to various Analytical Tools, Installing R. Handling
+Basic Explessions in R, Variables in R, Working with Vectors, Storing and Calculatirrg
+Values in R, Creating and Using Objects. lnteracting with Users. Handling Data in R
+Workspace, Executing Scripts, Reading Datasets and Exporting Data from R, Manipulating
+and Processing Data in R. Working with Functions and Packages in R, Performing Craphical
+Analysis in R. Techniques Used for Visual Data Representation, Types of Data Visualizatiorr
+
+Books:
+1. Big Data. Black Book by DT Editorial Services, Dreamtech Press.
+2. Big Data Computing and Communications edited by Yu Wang, Hui Xiong, Slilomo
+Argamon, XiangYang Li, JianZhong Li, Springer
+3. Big Data Analytics Beyond Hadoop by Viiay Srinivas Agneeswaran, FT Press.
+
+ty $ &aa
+
+Inter DisciPlinary course
+Pre Ph.D. Course in Computer Science and Engineering
+Advanced Data Communication
+L
+
+T
+
+P
+
++
+
+0
+
+0
+
+l. Digital Modulation: Introduction, Information Capacity Bits, Bit Rate' Baud' and M-ARY
+
+ci,oi'ig. eSr, FSK, PSK, QAM' BPSK' QPSK, 8PSK, 16PSK' 8QAM' I6QAM'
+
+DPSK
+
+-
+
+Metho-ds. Band Width Efficiency, Carrier Recovery, Clock Recovery'
+
+Data Communication
+S,Basic Concepts of Data Communications, Interfaces and Modems:
+Protocols
+Applications'
+Criteriai..o-pon.ntr, Networks, Distributed Processing. Network
+Configuration- Point-toand itandards, Standards Organizations- Regulitory Agencies, Line
+Ring- Hybrid Topologies' T.ra1;n1s-ston
+fnint l4ultipoint, Topology- Mesh- Star- Tree- BusWAt'\ and
+v.rd"s Simplex- Haif aufiex- Full Duplex, Categories of Networks- LAN' MAN'
+DCE lnterf'ace- Data
+Irrrernetwor'king. Digital bata Transmission- Parallel and Serial, D'fElferminal
+fquiimeni. Data Circuir Terminating Equipnrent. Standards EIA 232 Intertace'
+Other lnterlace Standards, Modems- Transmission Rates'
+Bit Error' CR-C (Cyclic
+-1. Error Detection and Conection: Types of Enors- SingleError Correction.
+Redunda.cy Check)- Performance. Checkium. Error Conection- Single-Bit
+I.ink
+Protocols.
+Window
+Hamming ilode. Data link Control: Stop and Wait, Sliding
+.Data
+Pl'otocoltrrotocolsi Asynchronous Protocols. Synchronous Protocols' character orierrtcd
+Oriented
+Bit
+Transparency'
+Data
+Binarl Synchionous Communication (BSC) - BSC FramesPr-otocols - HDLC, Link Access Protocols.
+Division switches- Time Division Switches- TDM
+.1. Switching: circuit Switching- Space
+-switching
+combinations- Public Switched Telephone
+flus Space'and Time Division
+packet Switching, Circuit Switched Versus Virtual Circuit Connection. Message
+
+Net*,oik.
+
+Sri itching.
+
+'firne_ Divisron
+Division Multiplexing. Multiple. Access:
+Multiplexing. D.-igital Hierarchy. Statistical
+Mulliple
+I{andom Ac-cess, Aloha- carrier Sense Multiple Access (cSMA)- Carrier Sense
+with c'ollisron
+Access with collision Detection (csMA)- Carrier Sense Multiple Access
+
+(TDNa), Synchronous
+5. Mulriplexing: Time Division Multiplexing
+'l'ime
+
+Aroidance(CSMA/CA).ControlledAccess-Reserr'ation.Polling-TokenPassing.
+Channelization- Frequency- Division Multiple Access (FDMA), Time
+Access (TDMA), - Code - Division Multiple Access (CDMA)'
+
+- Division Multiple
+
+BOOKS:
+l. Dara Communication and computer Networking - B. A.Forouzan. 3rded.,2008, ]'MH.
+l. Advanced Electronic Communicatiot.t Systems - W' Tomasi' 5 ed'' 2008' PEI'
+i. Data Communications and Computer Networks - Prakash C Gupta' 2006' PHI'
+4. Data and Computer Communicaiions - William Stallings, 8'h ed , 2007' PHI'
+2008' BSP'
+5. Data Communication and Tele Processing Systems - T' Housely,2nd Edition'
+PHI.
+6. Data Communications and Computer Netrior'ks- Brijendra Singh, 2"d ed., 2005,
+.
+Wiley-lnterscience'
+4/ed"
+Freeman,
+Roger
+Engineering
+System
+7. Telecommunication
+
+-
+
+.lohn Wiler' & Sons. 2004.
+
+$M'
+
+L
+
+k"P"y tt o\ea
+
+Inter Disciplinary course
+Prc Ph.D. Course in Computer Science and Engineering
+lnternetworking
+t_
+
+4
+
+'f
+
+P
+
+0
+
+U
+
+l. Internetrvorkirlg concepts: Principles of Internetworking, Connectionless Intemetworking.
+Application level Intercomections, Network level Interconnection, Properties of the Internct.
+Intemet Architecture, Wired LANS, Wireless LANs, Point-to-Point WANs, Switched WANs.
+Connecting Devices, TCP/lP Protocol Suite. IP Address: Classful Addressir,g: Introductiorr.
+Classful Addressing. Other Issues. Sub-netting and Super-netting IP Address: Classless
+Addressing: - Variable length Blocks. Sub-netting, Address Allocation. Delivery'.
+F-orwarding. and Routing of IP Packets: Delivery, Forwarding, Routing, Structure of Router.
+ARP and RARP:ARP. ARP Package. RARP.
+2. lnternet Protocol (lP): Datagram. Fragmentation, Options. Checksum, IP V.6.
+Transmission Control Protocol (TCP): TCP Services. TCP Features, Segment, A 1CP
+Connection. State Transition Diagranr. Flow Control. Error Control. Congestion Control.
+TCP Times. Streanr Control Transmission Protocol (SCTP): SCTP Services, SCTP Features.
+Packet I"ormat. Flow Control. Error Control, Congestion Control. Mobile IP: Addressing.
+Agenls. fhree Phases, Inefficiency in Mobile IP. Classical TCP Improvements: Indirect TC'P.
+Snooping TCP. Mobile TCP. Fast RetransmiV Fast Recovery, Transmission/ Time Out
+Freezing, Selective Retransmission, Transaction Oriented TCP.
+3. Unicast Routing Protocols (RIP, OSPF. and BCP): Intra and Inter-domain Routing.
+Distance Vector Routing, RIP. Link State Routing. OSPF, Path Vector Routing. BGP.
+Multicasting and Multicast Routing Protocols: Unicast - Multicast- Broadcast, Multicast
+Applications, Multicast Routing, Multicast Link State Routing: MOSPF, Multicast Distance
+Vector: DVMRP.
+,1. Dorlain Nanre Sl stem (DNS): Name Spacc. Domain Name Space, Distribution of Nanrc
+Space. and DNS in the internet. Remote Login TELNET:- Concept, Network Virtual
+Terminal (NVT). File Transfer FTP and TFTP: File Transflr Protocol (FTP). Electronic Mail:
+SMTP and POP. Network Management-SNMP: Concept. Management Components. \\'orld
+Wide Web- HTTP Architecture. Muitimedia: Digitizing Audio and Video. Network securit;'.
+security irr the internet flrewalls. Audio and Video Compression, Streaming Stored
+
+Audio/Video. Strcaming Live Audio/Video. Real- l-irne Interactive Audio/Video. R I I).
+RTCP. Voice Over IP. Netu,ork Securitv. Securitv in the Intemet. Firewalls.
+
+BOOKS:
+l. TCP/IP Protocol Suite- Behrouz A. Forouzan, Third Edition. TMH.
+2. Internetworking with TCP/IP Comer 3rd edition PHI.
+3. High perlbrmance TCP/IP Networking- Mahbub Hassan, Raj Jain, PHI, 2005
+4. Data Cornmunications & Networking - B.A. Forouzan 2nd Edition - TMH
+5. High Speed Networks and Intemets- William Stallings, Pearson Education,2002.
+
+v9"J\"
+
+?"n tr $ea
+
+Inter Disciplinary course
+Pre Ph.D. Course in Computer Science and Engineering
+Optimization Techniques
+
+L1'P
+100
+
+l.
+
+Introduction to Optimization Techniques. Origin & developn.rent of O.R.. Nature &
+Characteristic, features of O.R., Models & Modeling in Operation Research. Methodology of
+O,R.
+2. Linear Programming Mathematical Model, Assumptions of Linear Programming,
+Glaphical Method, Principles of Simplex method and its Applications, Two Phase & Big Mnrcthod. Revised simplex method, Duality, Dual simplex method- Primal Dual Relationship
+and sensitivity analysis.
+.1. Linear Programming: Mathematical formation of linear programming problem, Special
+types of Iinear programming problems -Transportation and assignment problems, Unbalanced
+Assignment problems, Crew based assignment problems, Test for Optimality, Degeneracy in
+'l
+ranspodation Problems, Unbalanced Transportation Problems.
+.1. Dellnition of Probability, Sample Space. Algebra of Events, Addition and rrr.rltiplicatron
+larr of probability, Conditional Probability'. Dynamic Programming-Features and applications
+ot' dl namic programming.
+5. Decision Theory, Integer Programming. Gomory Method and Branch & Bound Method.
+
+-
+
+Books:
+
+L Kapoor, V.K.: Operation Research, Sultan Chand & Co., New Delhi.
+2. Man Mohan, Gupta P.K.: Operation Research, Sultan Chand & Co., New Delhi.
+3. Pronsen, Richard: Theory and Problems of Operation Research, McGraw Hill, 1983.
+4. Hiller. F.S. & Liberman, G.J., 1974: lntroduction to Operations Research, 2nd Edn. Holden
+5. Rao, S. S., 1978: Introduction to Optimization: Theory & Applications, Wiley Eastern.
+(r. Srinath, L.S.: Linear Programming, East-West, New Delhi.
+
+:Q^-N*
+
+?rc^ tq o\ae
+
+Inter Disciplinary course
+Pre Ph.D. Course in Computer Science and Engineering
+Adhoc Wireless and Sensor Networks
+L
+
+T
+
+P
+
+4
+
+0
+
+0
+
+1. AD HOC Wireless Networks: Introduction, Issues in Ad Hoc Wireless Networks. AD Hoc
+wireless Internet. MAC Protocols for Ad Hoc wireless Networks: Introduction. Issues rn
+Designing a MAC protocol for Ad l{oc Wireless Networks, Design goals of a MAC prorocol
+for Ad Hoc Wireless Networks, Classifications of MAC Protocols, Contention - Based
+Protocols. Contention - Based Protocols with reservation Mechanisms, Contention Based
+MAC Protocols with Scheduling Mechanisms.
+2. ROUTING PROTOCOLS: Introduction. Issues in Designing a Routing Protocol for Ad
+Hoc \Vireless Netu'orks. Classification of Routing Protocols, Table -Driven Routing
+Protocols. On - Demand Routing Protocols, Hybrid Routing Protocols, Routing Prorocols
+with Efficient Flooding Mechanisms, Hierarchical Routing Protocols, Power - Au are
+Routing Protocols. Transport layer and Security Protocols: Introduction, lssues in Designrrrg
+a Transport La1,er Protocol fbr Ad Hoc Wireless Networks. Design Goals of a Transporl
+Layer Protocol lbr Ad Hoc Wireless Netr.r,orks. Classitication of Transport Layer Solutions.
+TCP Over Ad Hoc Wireless Netwolks, Other Transport La1.er Protocol for Ad Hoc Wireless
+N etr.r'o rk s .
+
+3. QUALITY OF SERVICE: Introduction. Issues and Challenges in Providing QoS in Ad
+Hoc Wireless Networks, Classification of QoS Solutions, MAC Layer Solutions. Ner\\'ork
+Layer Solutions, QoS Frameworks for Ad Hoc Wireless Networks. ENERGY
+MANAGEMENT: Introduction, Need for Energy Management in Ad Hoc Wireless
+Networks. Classification of Ad Hoc Wireless Networks. Battery Management Schemes.
+4. WIRELESS SENSOR NETWORKS: Introduction, Sensor Network Architecture. Dara
+Dissemination. Data Gathering. MAC Protocols for Sensor Networks, Location Discovelr..
+Quality ofa Sensor Network, Evolving Standards, Other Issues.
+BOOKS: l. Ad Hoc Wireless Networks: Architectures and Protocols - C. Siva Ram Murthl
+and B.S.Manoj. 2004, PHI.
+2. Wireless Ad- hoc and Sensor Networks: Protocols. Performance and Control Jagannathan
+Sarangapani. CRC Press.
+3. Ad- Hoc Mobile Wireless Networks: Protocols & Systems, C.K. Toh .l ed. Pearson
+Edr"rcation.
+
+4. Wireless Sensor Networks - C. S. Raghavendra, Krishna M. Sivalingam, 2004, Springer
+
+YeN
+?^y a, &aa
+
+Inter Disciplinary course
+Pre Ph.D. Course in Computer Science and Engineering
+Neural Networks and Fuzzy Logic
+
+L'IP
+.+00
+undamentals of Neural Netu,orks: Introduction. Biological Neurons and Memory,
+Stfucture & Function of a single Neuron, Artificial Neural Networks (ANN). Typical
+Application of ANN - Classification, Clustering, Pattern Recognition. I:unction
+Approximation. Basic approach of the working of ANN - Training, Learning and
+Generalization.
+2. Supervised Leaming: Single-layer Networks, Linear Separability, handling linearly nonseparable sets. Training algorithm. Error correction & gradient decent rules. Multi-layer
+letwork- Architecture, Back Propagation Algorithm (BPA) - Various parameters and their
+selection, Applications, Feedforward Network, Radial- Basis Function (RBF) network & its
+learning strategies.
+.i. U nsupervised Leaming: Winner-takes all Networks, Hamming Networks. Adaptive
+I{esonarrce Theory, Kohonen's, Self-organizing Maps.
+Neurodl namical models: Stability of Equilibrium states, Hopfield Network, Brain-state-innRox network, Bidirectional associative memories.
+1. F tzzy Logic: Basic concepts of Fuzzy Logic, Fuzzy vs. Crisp set Linguistic variables,
+nrembersl.rip functions, operations ol fuzzy sets, Crisp relations, Fuzzl' rclations,
+r\pproximate reasoning. fuzzy lF-THEN rules, variable inference, techniques. detuzziflcation
+techniques. Fuzzy rule based systems. Applications of fuzzy Iogic.
+I
+
+.
+
+F
+
+Books:
+l. Satish Kumar,"Neural Network : A classroom approach", Tata McGrau Hill.
+2. Jacek M.Zurada," Artificial Neural Networks", West Publication.
+
+j. Rajasekaran & Pai."Neural networks. Fuzzy logic and genetic algorilhnrs'". PHI lcarning
+l)\'r. Ltd.
+
+\u
+
+\-g-M,(waa Laa
+
+Inter Disciplinary course
+Pre Ph.D. Course in Computer Science and Engineering
+Mathematical Foundations of Computer Networks
+
+LTP
+400
+I . Basic algorithms on directed graphs, weighted shortest paths.
+
+2. Networks and routing algebras - fixed-point equations, sequential algorithm to solve the
+fixed-point equations, generalized distance-vector and link-state routing protocols.
+
+3. Applications to quality-of service intra-domain routing and to policy-based inter-domain 'n
+:"-, ,
+routing in the Intemet.
+4. Network flows - flows and residual networks, Max-flow Min-cut theorem, Ford Fulkerson
+method and Edmonds-Karp algorithm.
+5. Network calculus- Min-plus calculus: integrals and convolutions, Arrival curves and token
+buckets; service curves and schedulers, Applications to integrated and differentiated servrces
+
+in the Intemet.
+
+'\
+
+Books:
+I . Thomas Cormen, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to
+algorithms, 2th edition. The MIT Press 2001 [Chapter VI]
+2. Jorgen Bang-Jensen and Gregory Gutin. Digraphs: theory, algorithms and applications.
+Springer, 2002 [Section 7.3 and9,5)
+3. J. L. Sobrinho, An algebraic theory of dynamic network routing, IEEE/ACM
+on Networking, l3(5), October
+4. Jean-Yves Le Boudec and Patrick Thiran. Network calculus. Springer,2006. [Chapter l.
+and 3l
+
+pQ*r{"
+Qfe,Baa
+
+Transactions ... -.
+
+2005.
+
+2.
+
+\J,
+
+*
+
+'
+
+i'
+
+

@@ -1,0 +1,4226 @@
+Scheme & Syllabus of
+Master of Technology
+Computer Science & Engineering
+
+Batch 2018 onwards
+
+By
+Board of Study- CSE
+
+Department of Academics
+
+IK Gujral Punjab Technical University
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+PROGRAM: Master of Technology in Computer Science & Engineering
+It is a Post Graduate (PG) Programme of 2 years duration (4 semesters)
+Courses & Examination Scheme:
+First Semester
+CourseCo
+de
+
+Course
+Type
+
+Course Title
+
+MTCS
+101-18
+
+Program
+Core I
+
+Mathematical
+foundations of
+Computer Science
+
+MTCS
+102-18
+MTCS
+105-18
+
+Program
+Core II
+Program
+Elective I
+
+Advanced Data
+Structures
+Machine Learning
+Wireless Sensor
+
+MTCS
+107-18
+
+Introduction
+toIntelligent
+Systems
+Data Science
+
+Program
+Elective II
+
+Distributed
+Systems
+Advanced
+Wireless and
+Mobile Networks
+
+MTRM
+101-18
+
+Research
+Methodology and
+IPR
+
+MTCS
+103-18
+MTCS
+104-18
+
+0
+
+0
+
+3
+
+0
+
+0
+
+0
+
+Marks Distribution
+
+Total
+Marks
+
+Internal
+
+External
+
+40
+
+60
+
+100
+
+40
+
+60
+
+100
+
+40
+
+60
+
+100
+
+Credits
+
+3
+
+3
+
+0
+
+3
+
+Networks
+
+MTCS
+110-18
+
+MTA-xx
+
+3
+
+3
+
+MTCS
+106-18
+
+MTCS
+108-18
+MTCS
+109-18
+
+Load
+allocation
+L* T* P
+
+Audit
+Course
+**
+Laboratory
+1
+Laboratory
+2
+TOTAL
+
+Advanced Data
+Structures Lab.
+Based on
+Electives
+
+40
+
+60
+
+100
+
+3
+
+0
+
+0
+
+3
+
+2
+
+0
+
+0
+
+40
+
+60
+
+100
+
+2
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+4
+
+60
+
+40
+
+100
+
+0
+
+0
+
+4
+
+60
+
+40
+
+100
+
+16
+
+0
+
+8
+
+320
+
+380
+
+700
+
+2
+2
+18
+
+*A course can either have four Hrs Lecture or Three Hrs Lecture + One Hrs Tutorial as per requirement
+2|Page
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Second Semester
+Course
+Code
+
+Course
+Type
+
+Course Title
+
+MTCS
+201-18
+MTCS
+202-18
+
+Program
+Core III
+Program
+Core IV
+Program
+Elective III
+
+Advance
+Algorithms
+Soft Computing
+
+3
+
+0
+
+3
+
+Data Preparation
+and Analysis
+
+3
+
+MTCS
+206-18
+
+Program
+Elective IV
+
+Human and
+Computer
+Interaction
+
+MTCS
+210-18
+
+GPU Computing
+
+MTCS
+211-18
+
+Digital Forensics
+
+MTCS
+203-18
+MTCS
+204-18
+MTCS
+205-18
+
+Total
+Marks
+
+Internal
+
+External
+
+0
+
+40
+
+60
+
+100
+
+0
+
+0
+
+40
+
+60
+
+100
+
+0
+
+0
+
+40
+
+60
+
+100
+
+Credits
+
+3
+3
+
+Secure Software
+Design
+&Enterprise
+Computing
+Computer Vision
+
+MTCS
+208-18
+
+MTA-xxx
+
+Marks Distribution
+
+3
+
+MTCS
+207- 18
+
+MTCS
+209-18
+
+Load
+allocation
+L* T*
+P
+
+Audit
+Course**
+Laboratory
+3
+Laboratory
+4
+TOTAL
+
+3
+
+0
+
+0
+
+40
+
+60
+
+100
+3
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Based on cores
+
+0
+
+0
+
+4
+
+60
+
+40
+
+100
+
+2
+
+Based on
+Electives
+Mini Project with
+Seminar
+
+0
+
+0
+
+4
+
+60
+
+40
+
+100
+
+2
+
+2
+
+0
+
+0
+
+60
+
+40
+
+100
+
+2
+
+8
+
+320
+
+380
+
+700
+
+16
+
+0
+
+18
+
+*A course can either have four Hrs Lecture or Three Hrs Lecture + One Hrs Tutorial as per requirement
+3|Page
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Third Semester
+CourseCo
+de
+
+Course
+Type
+
+Course Title
+
+MTCS
+302-18
+
+Program
+Elective V
+
+Mobile
+Applications and
+Services
+
+MTCS
+303-18
+
+Compiler for
+HPC
+
+MTCS
+304-18
+
+Optimization
+Techniques
+
+MTOE
+301-18
+
+Open
+Elective
+
+Load
+allocation
+L* T* P
+
+3
+
+0
+
+MTOE
+302-18
+
+Industrial Safety
+
+MTOE
+303-18
+
+Operations
+
+MTOE
+304-18
+
+Cost
+
+MTOE
+305-18
+
+Composite
+
+MTOE
+306-18
+
+Waste to Energy
+
+Total
+Marks
+
+Credits
+
+Internal
+
+External
+
+40
+
+60
+
+100
+
+03
+
+40
+
+60
+
+100
+
+03
+
+0
+
+1.Business
+Analytics
+
+Marks Distribution
+
+3
+
+0
+
+0
+
+0
+
+0
+
+20
+
+60
+
+40
+
+100
+
+7
+
+0
+
+0
+
+0
+
+60
+
+40
+
+100
+
+3
+
+200
+
+200
+
+400
+
+16
+
+Research
+Managementof
+Engineering
+Projects
+
+Materials
+
+MTCS
+301-18
+
+Dissertation
+-I
+
+MTCS
+305-18
+
+Training**
+TOTAL
+
+Industry/
+Institutional
+
+6
+
+0
+
+20
+
+** This is to be taken up after 2nd semester, for 6-8 weeks in summer, in industry / institution of repute.
+4|Page
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Fourth Semester
+CourseCo
+de
+
+Course
+Type
+
+Course Title
+
+MTCS
+401-18
+
+Thesis
+
+Dissertation - II
+
+Load allocation
+
+Marks Distribution
+
+L*
+
+T*
+
+P
+
+Internal
+
+External
+
+0
+
+0
+
+32
+
+60
+
+40
+
+TOTAL
+
+0
+
+0
+
+32
+
+60
+
+40
+
+Total
+Marks
+
+Credits
+
+100
+
+16
+
+100
+
+16
+
+*A course can either have four Hrs Lecture or Three Hrs Lecture + One Hrs Tutorial as per requirement
+
+Total Marks of M. Tech Program:1800
+Total Credit of M. Tech Program:68
+** Audit courses:
+COURSE CODE: MTA-xxx
+A01. English for Research Paper Writing
+A02. Disaster Management
+A03. Sanskrit for Technical Knowledge
+A04. ValueEducation
+A05. Constitution of India
+A06. Pedagogy Studies
+A07. Stress Management by Yoga
+A08. Personality Development through Life Enlightenment Skills.
+
+5|Page
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Program Outcomes of CSE (M.Tech.) program: 2018 onwards
+The main outcomes of the CSE (M.Tech.)program are given here. At the end of the
+program a student is expected to have:
+1. An understanding of the theoretical foundations and the limits of computing.
+2.An ability to adapt existing models, techniques, algorithms, data structures, etc. for
+efficiently solving problems.
+3.An ability to design,develop and evaluate new computer based systems for novel
+applications which meet thedesired needs of industry and society.
+4.Understanding and ability to use advanced computing techniques and tools.
+5.An ability to undertake original research at the cutting edge of computer science & its
+related areas.
+6.An ability to function effectively individually or as a part of a team to accomplish a
+stated goal.
+7. An understanding of professional and ethical responsibility.
+8. An ability to communicate effectively with a wide range of audience.
+9. An ability to learn independently and engage in life long learning.
+10.An understanding of the impact of IT related solutions in an economic, social and
+environment context.
+
+6|Page
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Syllabus, course objective and course outcomes for various M.TECH -CSE Subjects:
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS101-18
+Mathematical Foundation of Computer Science
+3
+Discrete Mathematics
+
+Total Number of Lectures:48
+COURSE OBJECTIVE
+
+
+
+To understand the mathematical fundamentals that is prerequisites for avariety of courses like
+Data mining, Network protocols, analysis of Web traffic, Computer security, Software engineering,
+Computer architecture, operating systems, distributed systems, Bioinformatics, Machine learning.
+
+
+
+To developthe understanding ofthe mathematical and logical basis to many modern techniques in
+information technology like machine learning, programming language design, and concurrency.
+
+
+
+To study various sampling and classification problems.
+
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit 1
+
+7
+
+Probability mass, density, and cumulative distribution functions, Parametric families of
+distributions, Expected value, variance, conditional expectation, Applications of the
+univariate and multivariate Central Limit Theorem, Probabilistic inequalities,
+Markovchains.
+Unit 2
+
+7
+
+Random samples, sampling distributions of estimators, Methods of Moments and
+Maximum Likelihood.
+Unit 3
+
+8
+
+Statistical inference, Introduction to multivariate statistical models: regression and
+classification problems, principal components analysis, The problem of overfitting model
+assessment.
+Unit 4
+11
+Graph Theory: Isomorphism, Planar graphs, graph coloring, Hamilton circuits and Euler
+cycles. Permutations and Combinations with and without repetition. Specialized
+techniques to solve combinatorial enumeration problems.
+7|Page
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 5
+
+10
+
+Computer science and engineering applications
+Data mining, Network protocols, analysis of Web traffic, Computer security, Software
+engineering, Computer architecture, operating systems, distributed systems,
+Bioinformatics, Machine learning.
+Unit 6
+
+5
+
+Recent Trends in various distribution functions in mathematical field of computerscience for
+varying fields like bioinformatics, soft computing, and computer vision.
+
+COURSE OUTCOMES
+After completion of course, students would be able to:
+ To understand the basic notions of discrete and continuous probability.
+
+ To understand the methods of statistical inference, and the role that sampling distributions play in
+those methods.
+
+ To be able to perform correct and meaningful statistical analyses of simple to moderate complexity.
+
+References:
+1. John Vince, Foundation Mathematics for Computer Science, Springer.
+2. K.
+
+Trivedi.Probability
+
+and
+
+Statistics
+
+with
+
+Reliability,
+
+Queuing,
+
+and
+
+Computer
+
+Science
+
+Applications. Wiley.
+
+3. M. Mitzenmacher and E. Upfal.Probability and Computing: Randomized Algorithms and Probabilistic
+Analysis.
+
+4. Alan Tucker, Applied Combinatorics, Wiley
+
+Course Code
+MTCS102-18
+Course Name
+Advanced Data Structures
+Credits
+3
+Pre-Requisites
+UG level course in Data Structures
+Total Number of Lectures:48
+COURSE OBJECTIVE
+
+ The student should be able to choose appropriate data structures, understand the ADT/libraries,
+
+8|Page
+
+and use it to design algorithms for a specific problem.
+Students should be able to understand the necessary mathematical abstraction to solve problems.
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+ To familiarize students with advanced paradigms and data structure used to solve algorithmic
+
+problems.
+ Student should be able to come up with analysis of efficiency and proofs of correctness.
+LECTURE WITH BREAKUP
+NO. OF LECTURES
+Unit 1
+
+7
+
+Dictionaries: Definition, Dictionary Abstract Data Type, Implementation of Dictionaries.
+Hashing: Review of Hashing, Hash Function, Collision Resolution Techniques in Hashing,
+Separate Chaining, Open Addressing, Linear Probing, Quadratic, Probing, Double
+Hashing, Rehashing, Extendible Hashing.
+Unit 2
+
+5
+
+Skip Lists: Need for Randomizing Data Structures and Algorithms, Search and Update
+Operations on Skip Lists, Probabilistic Analysis of Skip Lists, Deterministic Skip Lists
+Unit 3
+
+9
+
+Trees: Binary Search Trees, AVL Trees, Red Black Trees, 2-3 Trees, B-Trees, Splay Trees
+Unit 4
+
+12
+
+Text Processing: Sting Operations, Brute-Force Pattern Matching, The Boyer-Moore
+Algorithm, The Knuth-Morris-Pratt Algorithm, Standard Tries, Compressed Tries, Suffix
+Tries, The Huffman Coding Algorithm, The Longest Common Subsequence Problem
+(LCS), Applying Dynamic Programming to the LCS Problem.
+Unit 5
+
+10
+
+Computational Geometry: One Dimensional Range Searching, Two Dimensional Range
+Searching, Constructing a Priority Search Tree, Searching a Priority Search Tree, Priority
+Range Trees, Quadtrees, k-D Trees.
+Unit 6
+5
+Recent Trends in Hashing, Trees, and various computational geometry methods for
+efficiently solving the new evolving problem.
+
+COURSE OUTCOMES
+After completion of course, students would be able to:
+ Understand the implementation of symbol table using hashing techniques.
+ Develop and analyze algorithms for red-black trees, B-trees and Splay trees.
+ Develop algorithms for text processing applications.
+ Identify suitable data structures and develop algorithms for computational geometry problems.
+9|Page
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+References:
+1. Mark Allen Weiss, Data Structures and Algorithm Analysis in C++, 2nd Edition, Pearson, 2004.
+2. M T Goodrich, Roberto Tamassia, Algorithm Design, John Wiley, 2002.
+
+Course Code
+MTCS201-18
+Course Name
+Advanced Algorithms
+Credits
+3
+Pre-Requisites
+UG level course in Algorithm Design and Analysis
+Total Number of Lectures:48
+
+COURSE OBJECTIVE
+ Introduce students to the advanced methods of designing and analyzing algorithms.
+
+ The student should be able to choose appropriate algorithms and use it for a specific problem.
+ To familiarize students with basic paradigms and data structures used to solve advanced algorithmic
+problems.
+
+ Students should be able to understand different classes of problems concerning their computation
+
+
+difficulties.
+To introduce the students to recent developments in the area of algorithmic design.
+
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit1
+
+6
+
+Sorting: Review of various sorting algorithms, topological sorting
+Graph: Definitions and Elementary Algorithms: Shortest path by BFS, shortest path in
+edge-weighted case (Dijkasra's), depth-first search and computation of strongly
+connected components, emphasis on correctness proof of the algorithm and time/space
+analysis, example of amortized analysis.
+Unit 2
+Matroids: Introduction to greedy paradigm, algorithm to compute a maximum weight
+maximal independent set. Application to MST.
+Graph Matching: Algorithm to compute maximum matching. Characterization of
+maximum matching by augmenting paths, Edmond's Blossom algorithm to compute
+augmenting path.
+
+10 | P a g e
+
+8
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 3
+
+9
+
+Flow-Networks: Maxflow-mincut theorem, Ford-Fulkerson Method to compute
+maximum flow, Edmond-Karp maximum-flow algorithm.
+Matrix Computations: Strassen's algorithm and introduction to divide and conquer
+paradigm, inverse of a triangular matrix, relation between the time complexities of basic
+matrix operations, LUP-decomposition.
+Unit 4
+
+10
+
+Shortest Path in Graphs: Floyd-Warshall algorithm and introduction to dynamic
+programming paradigm. More examples of dynamic programming.
+Modulo Representation of integers/polynomials: Chinese Remainder Theorem,
+Conversion between base-representation and modulo-representation. Extension to
+polynomials. Application: Interpolation problem.
+Discrete Fourier Transform (DFT): In complex field, DFT in modulo ring. Fast Fourier
+Transform algorithm. Schonhage-Strassen Integer Multiplication algorithm.
+Unit 5
+
+10
+
+Linear Programming: Geometry of the feasibility region and Simplex algorithm.
+NP-completeness: Examples, proof of NP-hardness and NP-completeness.
+One or more of the following topics based on time and interest
+Approximation algorithms, Randomized Algorithms, Interior Point Method, Advanced
+Number Theoretic Algorithm.
+Unit 6
+
+5
+
+Recent Trands in problem solving paradigms using recent searching and sorting
+techniques by applying recently proposed data structures.
+
+COURSE OUTCOMES
+After completion of course, students would be able to:
+ Analyze the complexity/performance of different algorithms.
+ Determine the appropriate data structure for solving a particular set of problems.
+ Categorize the different problems in various classes according to their complexity.
+ Students should have an insight of recent activities in the field of the advanced data structure.
+
+11 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+References:
+1. "Introduction to Algorithms" by Cormen, Leiserson, Rivest, Stein.
+
+2. "The Design and Analysis of Computer Algorithms" by Aho, Hopcroft, Ullman.
+3. "Algorithm Design" by Kleinberg and Tardos.
+
+12 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Research Methodology and IPR
+Course Code: MTRM-101-18, Credits :2
+Lectures: 1hrs/week
+Course Outcomes:
+At the end of this course, students will be able to
+
+
+
+
+
+Understand research problem formulation.
+
+
+
+Understand that today’s world is controlled by Computer, Information Technology, but tomorrow
+world will be ruled by ideas, concept, and creativity.
+
+
+
+Understanding that when IPR would take such important place in growth of individuals & nation, it
+is needless to emphasis the need of information about Intellectual Property Right to be promoted
+among students in general & engineering in particular.
+
+
+
+Understand that IPR protection provides an incentive to inventors for further research work and
+investment in R & D, which leads to creation of new and better products, and in turn brings about,
+economic growth and social benefits.
+
+Analyze research related information
+Follow research ethics
+
+Syllabus Contents:
+Unit 1: Meaning of research problem, Sources of research problem, Criteria Characteristics of a good
+research problem, Errors in selecting a research problem, Scope and objectives of research problem.
+Approaches of investigation of solutions for research problem, data collection, analysis, interpretation,
+Necessary instrumentations
+Unit 2: Effective literature studies approaches, analysis Plagiarism, Research ethics,
+Unit 3: Effective technical writing, how to write report, Paper
+Developing a Research Proposal, Format of research proposal, a presentation and assessment by a
+review committee
+Unit 4: Nature of Intellectual Property: Patents, Designs, Trade and Copyright. Process of Patenting and
+Development: technological research, innovation, patenting, development. International Scenario:
+International cooperation on Intellectual Property. Procedure for grants of patents, Patenting under PCT.
+
+Unit 5: Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent information
+and databases. Geographical Indications.
+Unit 6: New Developments in IPR: Administration of Patent System. New developments in IPR; IPR of
+Biological Systems, Computer Software etc. Traditional knowledge Case Studies, IPR and IITs.
+
+13 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+References:
+1. Stuart Melville and Wayne Goddard, “Research methodology: an introduction for science &
+engineering students’”
+
+2. Wayne Goddard and Stuart Melville, “Research Methodology: An Introduction”
+
+3. Ranjit Kumar, 2nd Edition , “Research Methodology: A Step by Step Guide for beginners”
+4. Halbert, “Resisting Intellectual Property”, Taylor & Francis Ltd, 2007.
+5. Mayall , “Industrial Design”, McGraw Hill, 1992.
+6. Niebel , “Product Design”, McGraw Hill, 1974.
+
+7. Asimov, “Introduction to Design”, Prentice Hall, 1962.
+
+8. Robert P. Merges, Peter S. Menell, Mark A. Lemley, “ Intellectual Property in New Technological
+Age”, 2016.
+
+9. T. Ramappa, “Intellectual Property Rights Under WTO”, S. Chand, 2008
+
+14 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS202-18
+Soft Computing
+3
+Basic knowledge of mathematics
+
+TotalNumberofLectures: 48
+COURSE OBJECTIVE
+
+ To introduce soft computing concepts and techniques and foster their abilities in designing
+appropriate technique for a given scenario.
+
+ To implement soft computing based solutions for real-world problems.
+ To give students knowledge of non-traditional technologies and fundamentals of artificial neural
+
+
+networks, fuzzy sets, fuzzy logic, genetic algorithms.
+To provide student hand-on experience on MATLAB to implement various strategies.
+
+LECTURE WITH BREAKU
+
+NO. OF LECTURES
+
+Unit 1:
+
+7
+
+INTRODUCTION TOSOFTCOMPUTING ANDNEURALNETWORKS: Evolution of
+Computing: Soft Computing Constituents, From Conventional AI to Computational
+Intelligence: Machine Learning Basics.
+Unit 2
+
+8
+
+FUZZY LOGIC: Fuzzy Sets, Operations on Fuzzy Sets, Fuzzy Relations, Membership
+Functions: Fuzzy Rules and Fuzzy Reasoning, Fuzzy Inference Systems, Fuzzy Expert
+Systems, Fuzzy Decision Making.
+Unit 3
+
+10
+
+NEURAL NETWORKS: Machine Learning Using Neural Network, Adaptive Networks,
+Feed forward Networks, Supervised Learning Neural Networks, Radial Basis Function
+Networks : Reinforcement Learning, Unsupervised Learning Neural Networks, Adaptive
+Resonance architectures, Advances in Neural networks
+Unit 4
+
+5
+
+GENETIC ALGORITHMS: Introduction to Genetic Algorithms (GA), Applications of GA in
+Machine Learning: Machine Learning Approach to Knowledge Acquisition.
+Unit 5
+Matlab/Python Lib: Introduction to Matlab/Python, Arrays and array operations,
+Functions and Files, Study of neural network toolbox and fuzzy logic toolbox, Simple
+implementation of Artificial Neural Network and Fuzzy Logic.
+
+13
+
+15 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 6
+
+5
+
+Recent Trands in deep learning, various classifiers, neural networks and genetic
+algorithm. Implementation of recently proposed soft computing techniques.
+
+COURSE OUTCOMES
+After completion of course, students would be able to:
+
+
+
+
+
+
+Identify and describe soft computing techniques and their roles in building intelligent machines
+Apply fuzzy logic and reasoning to handle uncertainty and solve various engineering problems.
+Apply genetic algorithms to combinatorial optimization problems.
+Evaluate and compare solutions by various soft computing approaches for a given problem.
+
+References:
+1. Jyh:Shing Roger Jang, Chuen:Tsai Sun, EijiMizutani, Neuro:Fuzzy and Soft Computing17,
+Prentice:Hall of India, 2003.
+
+2. George J. Klir and Bo Yuan, Fuzzy Sets and Fuzzy Logic:Theory and Applications17, Prentice Hall, 1995.
+
+3. MATLAB Toolkit Manual
+
+16 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+ELECTIVE SUBJECTS
+Course Code
+MTCS 105-18
+Course Name
+Machine learning
+Credits
+3
+Pre-Requisites
+Total Number of Lectures:48
+COURSE OBJECTIVE
+
+
+
+To learn the concept of how to learn patterns and concepts from data without being explicitly
+programmed in various IOT nodes.
+
+
+
+To design and analyse various machine learning algorithms and techniques with a modern outlook
+focusing on recent advances.
+
+
+
+Explore supervised and unsupervised learning paradigms of machine learning.
+
+
+
+To explore Deep learning technique and various feature extraction strategies.
+
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit 1:
+
+10
+
+Supervised Learning (Regression/Classification)
+
+
+
+Basic methods: Distance-based methods, Nearest-Neighbours, Decision Trees,
+Naive Bayes
+
+
+
+Linear models: Linear Regression, Logistic Regression, Generalized Linear
+Models
+
+
+
+Support Vector Machines, Nonlinearity and Kernel Methods
+
+
+
+Beyond Binary Classification: Multi-class/Structured Outputs, Ranking
+
+17 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 2:
+
+7
+
+Unsupervised Learning
+
+ Clustering: K-means/Kernel K-means
+ Dimensionality Reduction: PCA and kernel PCA
+ Matrix Factorization and Matrix Completion
+ Generative Models (mixture models and latent factor models)
+Unit 3
+
+6
+
+Evaluating Machine Learning algorithms and Model Selection, Introduction to Statistical
+Learning Theory, Ensemble Methods (Boosting, Bagging, RandomForests).
+Unit 4
+
+9
+
+Sparse Modeling and Estimation, Modeling Sequence/Time-Series Data, Deep Learning
+and Feature Representation Learning.
+Unit 5
+
+9
+
+Scalable Machine Learning (Online and Distributed Learning)
+A selection from some other advanced topics, e.g., Semi-supervised Learning, Active
+Learning, Reinforcement Learning, Inference in Graphical Models, Introduction to
+Bayesian Learning and Inference.
+Unit 6:
+
+5
+
+Recent trends in various learning techniques of machine learning and classification
+methods for IOT applications. Various models for IOT applications.
+
+COURSE OUTCOMES
+After completion of course, students would be able to:
+
+ Extract features that can be used for a particular machine learning approach in various IOT
+
+
+
+applications.
+To compare and contrast pros and cons of various machine learning techniques and to get an
+insight of when to apply a particular machine learning approach.
+To mathematically analyse various machine learning approaches and paradigms.
+
+References:
+1. Kevin Murphy, Machine Learning: A Probabilistic Perspective, MIT Press, 2012
+
+18 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+2. Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical Learning, Springer 2009
+(freely available online)
+
+3. Christopher Bishop, Pattern Recognition and Machine Learning, Springer, 2007.
+
+19 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS106-18
+Wireless Sensor Networks
+3
+Wireless Communication
+
+Total Number of Lectures: 48
+
+COURSE OBJECTIVE
+ Architect sensor networks for various application setups.
+ Devise appropriate data dissemination protocols and model links cost.
+
+ Understanding of the fundamental concepts of wireless sensor networks and have a basic
+
+
+knowledge of the various protocols at various layers.
+Evaluate the performance of sensor networks and identify bottlenecks.
+
+LECTURE WITH BREAKUP
+Unit 1:
+
+NO. OF LECTURES
+
+Introduction to Wireless Sensor Networks: Course Information, Introduction to
+Wireless Sensor Networks: Motivations, Applications, Performance metrics, History and
+Design factors
+Network Architecture: Traditional layered stack, Cross-layer designs, Sensor Network
+Architecture
+
+9
+
+Hardware Platforms: Motes, Hardware parameters
+Unit 2:
+Introduction to ns-3: Introduction to Network Simulator 3 (ns-3), Descriptionof the ns-3 9
+core module and simulation example.
+Unit 3:
+Medium Access Control Protocol design: Fixed Access, Random Access, WSN
+protocols: synchronized, duty-cycled
+Introduction to Markov Chain: Discrete time Markov Chain definition, properties,
+classification and analysis
+MAC Protocol
+(Markov Chain)
+
+Analysis:
+
+Asynchronous duty-cycled. X-MAC Analysis
+
+8
+
+20 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 4:
+Security: Possible attacks, countermeasures, SPINS, Static and dynamic key distribution. 8
+Unit 5:
+Routing protocols: Introduction, MANET protocols
+Routing protocols for WSN: Resource-aware routing, Data-centric, Geographic Routing, 10
+Broadcast, Multicast
+Opportunistic Routing Analysis: Analysis of opportunistic routing (Markov Chain)
+Advanced topics in wireless sensor networks.
+Unit 6:
+ADVANCED TOPICS
+
+4
+
+Recent development in WSN standards, software applications.
+
+COURSE OUTCOMES
+After completion of course, students would be able to:
+ Describe and explain radio standards and communication protocols for wireless sensor networks.
+
+ Explain the function of the node architecture and use of sensors for various applications.
+ Be familiar with architectures, functions and performance of wireless sensor networks systems and
+platforms.
+
+References:
+1. W. Dargie and C. Poellabauer, “Fundamentals of Wireless Sensor Networks –Theory and
+Practice”, Wiley 2010
+
+2. KazemSohraby, Daniel Minoli and TaiebZnati, “wireless sensor networks -Technology,
+Protocols, and Applications”, Wiley Interscience 2007
+
+3. Takahiro Hara,Vladimir I. Zadorozhny, and Erik Buchmann, “Wireless Sensor Network
+Technologies for the Information Explosion Era”, springer 2010
+
+21 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Course Code
+MTCS107-18
+Course Name
+Introduction to Intelligent Systems
+Credits
+3
+Pre-Requisites
+Data Structures and Data Management or Data Structures
+Total Number of Lectures: 48
+
+COURSEOBJECTIVE
+ Theaim
+ofthecourseistointroducetothefieldofArtificialIntelligence(AI)withemphasisonitsusetosolvereal
+worldproblemsforwhichsolutionsaredifficulttoexpressusingthetraditionalalgorithmicapproach.It
+explorestheessentialtheorybehindmethodologiesfordevelopingsystemsthatdemonstrateintelligent
+behaviourincludingdealingwithuncertainty,learning from experience and following problem solving
+
+LECTURE WITH BREAKUP
+Unit 1:
+
+NO. OF LECTURES
+
+Biological foundations to intelligent systems I: Artificial neural networks, Backpropagation networks, Radial basis function networks, and recurrent networks.
+
+9
+
+Unit 2:
+Biological foundations to intelligent systems II: Fuzzy logic, knowledge Representation
+and inference mechanism, genetic algorithm, and fuzzy neural networks.
+
+6
+
+Unit 3:
+Search Methods Basic concepts of graph and tree search. Three simple search methods:
+breadth-first search, depth-first search, iterative deepening search. Heuristic search
+7
+methods: best-first search, admissible evaluation functions, hill- climbing search.
+Optimization and search such as stochastic annealing and genetic algorithm.
+Unit 4:
+Knowledge representation and logical inference Issues in knowledge representation.
+Structured representation, such as frames, and scripts, semantic networks and
+conceptual graphs. Formal logic and logical inference. Knowledge-based systems
+structures, its basic components. Ideas of Blackboard architectures.
+
+9
+
+Unit 5:
+Reasoning under uncertainty and Learning Techniques on uncertainty reasoning such as
+Bayesian reasoning, Certainty factors and Dempster-Shafer Theory of Evidential
+reasoning, A study of different learning and evolutionary algorithms, such as statistical 7
+learning and induction learning.
+
+22 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 6:
+
+5
+
+Recent trends in Fuzzy logic, Knowledge Representation.
+
+COURSE OUTCOMES
+After completion of course, students would be:
+
+ Able to demonstrate knowledge of the fundamental principles of intelligent systems and would be able
+to analyses and compare the relative merits of a variety of AI problem solving techniques.
+
+References:
+1. Luger G.F. and Stubblefield W.A. (2008). Artificial Intelligence: Structures and strategies for Complex
+Problem Solving. Addison Wesley, 6th edition.
+
+2. Russell S. and Norvig P. (2009). Artificial Intelligence: A Modern Approach. Prentice-Hall, 3rd edition.
+Course Code
+MTCS108-18
+Course Name
+Data Science
+Credits
+3
+Pre-Requisites
+Total Number of Lectures:48
+
+23 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+COURSEOBJECTIVE
+ Provide you with the knowledge and expertise to become a proficient data scientist.
+ Demonstrate an understanding of statistics and machine learning concepts that are vital for data
+science;
+
+ Produce Python code to statistically analyses a dataset;
+ Critically evaluate data visualizations based on their design and use for communicating stories from
+data;
+
+LECTURE WITH BREAKUP
+Unit 1:
+
+NO. OF
+LECTURES
+6
+
+Introduction to core concepts and technologies: Introduction, Terminology, data science
+process, data science toolkit, Types of data, Example applications.
+Unit 2:
+
+7
+
+Data collection and management: Introduction, Sources of data, Data collection and
+APIs, Exploring and fixing data, Data storage and management, Using multiple data
+sources.
+Unit 3:
+
+10
+
+Data analysis: Introduction, Terminology and concepts, Introduction to statistics, Central
+tendencies and distributions, Variance, Distribution properties and arithmetic,
+Samples/CLT, Basic machine learning algorithms, Linear regression, SVM, Naive Bayes.
+Unit 4:
+
+11
+
+Data visualization:Introduction, Types of data visualization,Data for visualization:Data
+types, Data encodings, Retinal variables, Mapping variables to encodings, Visual
+encodings.
+Unit 5:
+
+7
+
+Applications of Data Science,Technologies for visualization, Bokeh (Python)
+Unit 6:
+Recent trends in various data collection and analysis techniques, various visualization
+techniques, application development methods of used in data science.
+
+COURSE OUTCOMES
+
+7
+
+24 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+On completion of the course the student should be able to
+ Explain how data is collected, managed and stored for data science;
+
+ Understand the key concepts in data science, including their real-world applications and the toolkit
+
+used by data scientists;
+ Implement data collection and management scripts using MongoDB
+References:
+
+1. Cathy O’Neil and Rachel Schutt. Doing Data Science, Straight Talk fromthe Frontline. O’Reilly.
+2. Jure Leskovek, Annand Rajaraman and Jeffrey Ullman. Mining of Massive Datasets. v2.1, Cambridge
+University Press.
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS109-18
+Distributed Systems
+3
+Database Management Systems
+
+Total Number of Lectures: 48
+
+COURSEOBJECTIVE
+Tointroducethefundamentalconceptsandissuesofmanaginglargevolumeofshareddatainaparall
+elanddistributedenvironment,andtoprovideinsightintorelatedresearchproblems.
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit 1: INTRODUCTION
+Distributed data processing; What is a DDBS; Advantages and disadvantages of DDBS;
+Problem areas; Overview of database and computer network concepts
+DISTRIBUTED DATABASE MANAGEMENT SYSTEM ARCHITECTURE
+Transparencies in a distributed DBMS; Distributed DBMS architecture; Globaldirectory
+issues.
+
+8
+
+25 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 2:
+DISTRIBUTED DATABASE DESIGN
+Alternative design strategies; Distributed design issues; Fragmentation; Data allocation.
+SEMANTICS DATA CONTROL
+View management; Data security; Semantic Integrity Control.
+
+11
+
+QUERY PROCESSING ISSUES
+Objectives of query processing; Characterization of query processors; Layers of query
+processing; Query decomposition; Localization of distributed data.
+Unit 3:
+DISTRIBUTED QUERY OPTIMIZATION
+Factors governing query optimization; Centralized query optimization; Ordering of
+fragment queries; Distributed query optimization algorithms.
+TRANSACTION MANAGEMENT
+The transaction concept; Goals of transaction management; Characteristics of
+transactions; Taxonomy of transaction models.
+
+11
+
+CONCURRENCY CONTROL
+Concurrency control in centralized database systems; Concurrency control in DDBSs;
+Distributed concurrency control algorithms; Deadlock management.
+Unit 4:
+RELIABILITY
+
+8
+
+Reliability issues in DDBSs; Types of failures; Reliability techniques; Commit protocols;
+Recovery protocols.
+Unit 5:
+PARALLEL DATABASE SYSTEMS
+Parallel architectures; parallel query processing and optimization; load balancing.
+
+6
+
+26 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 6:
+
+4
+
+ADVANCED TOPICS
+Mobile Databases, Distributed Object Management, Multi-databases.
+
+COURSE OUTCOMES
+After completion of course, students would be:
+ Design trends in distributed systems.
+ Apply network virtualization.
+ Apply remote method invocation and objects.
+References:
+1. Principles of Distributed Database Systems, M.T. Ozsu and P. Valduriez, Prentice-Hall, 1991.
+2. Distributed Database Systems, D. Bell and J. Grimson, Addison-Wesley, 1992.
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS110-18
+Advanced Wireless and Mobile Networks
+3
+Computer Networks
+
+Total Number of Lectures: 48
+
+COURSE OBJECTIVE
+
+
+
+The students should get familiar with the wireless/mobile market and the future needs and challenges.
+
+
+
+
+
+To get familiar with key concepts of wireless networks, standards, technologies and their basic
+operations
+To learn how to design and analyse various medium access
+To learn how to evaluate MAC and network protocols using network simulation software tools.
+
+
+
+The students should get familiar with the wireless/mobile market and the future needs and challenges.
+
+27 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit 1: INTRODUCTION:
+Wireless Networking Trends, Key Wireless Physical Layer Concepts, Multiple Access
+Technologies -CDMA, FDMA, TDMA, Spread Spectrum technologies, Frequency reuse,
+Radio Propagation and Modelling, Challenges in Mobile Computing: Resource poorness,
+Bandwidth, energy etc.
+WIRELESS LOCAL AREA NETWORKS:
+
+11
+
+IEEE 802.11 Wireless LANs Physical & MAC layer, 802.11 MAC Modes (DCF& PCF) IEEE
+802.11 standards, Architecture & protocols, Infrastructure vs. Adhoc Modes, Hidden
+Node & Exposed Terminal Problem, Problems, Fading Effects in Indoor and outdoor
+WLANs, WLAN Deployment issues.
+Unit 2:
+WIRELESS CELLULAR NETWORKS:
+1G and 2G, 2.5G, 3G, and 4G, Mobile IPv4, Mobile IPv6, TCP over Wireless Networks,
+Cellular architecture, Frequency reuse, Channel assignment strategies, Handoff
+strategies, Interference and system capacity, Improving coverage and capacity in cellular
+systems, Spread spectrum Technologies.
+
+10
+
+Unit 3:
+WiMAX (Physical layer, Media access control, Mobility and Networking), IEEE 802.22
+Wireless Regional Area Networks, IEEE 802.21 Media Independent Handover Overview
+WIRELESS SENSOR NETWORKS
+
+8
+
+Introduction, Application, Physical, MAC layer and Network Layer, Power Management,
+Tiny OS Overview.
+Unit 4: WIRELESS PANs
+Bluetooth AND Zigbee, Introduction to Wireless Sensors.
+
+4
+
+Unit 5: SECURITY
+Security in wireless Networks Vulnerabilities, Security techniques, Wi-Fi Security, DoS in 10
+wireless communication.
+
+28 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 6:
+ADVANCED TOPICS
+
+5
+
+IEEE 802.11x and IEEE 802.11i standards, Introduction to Vehicular Adhoc Networks
+
+COURSE OUTCOMES
+After completion of course, students would be:
+
+ Demonstrate advanced knowledge of networking and wireless networking and understand various
+types of wireless networks, standards, operations and use cases.
+
+ Be able to design WLAN, WPAN, WWAN, Cellular based upon underlying propagation and performance
+analysis.
+
+ Demonstrate knowledge of protocols used in wireless networks and learn simulating wireless
+networks.
+
+ Design wireless networks exploring trade-offs between wire line and wireless links.
+ Develop mobile applications to solve some of the real world problems.
+References:
+1. Schiller J., Mobile Communications, Addison Wesley 2000
+
+2. Stallings W., Wireless Communications and Networks, Pearson Education 2005
+
+3. Stojmenic Ivan, Handbook of Wireless Networks and Mobile Computing, John Wiley and Sons Inc 2002
+4. Yi Bing Lin and ImrichChlamtac, Wireless and Mobile Network Architectures, John Wiley and Sons Inc
+2000
+
+5. Pandya Raj, Mobile and Personal Communications Systems and Services, PHI 200
+
+29 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Course Code
+
+MTCS206-18
+
+Course Name
+
+Data Preparation and Analysis
+
+Credits
+
+3
+
+Pre-Requisites
+
+Total Number of Lectures: 48
+
+COURSEOBJECTIVE
+Topreparethedataforanalysisanddevelop meaningfulDataVisualizations
+
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit1:
+Data Gathering and Preparation:
+
+9
+
+Data formats, parsing and transformation, Scalability and real-time issues.
+Unit2:
+Data Cleaning:
+
+11
+
+Consistency checking, Heterogeneous and missing data, Data Transformation and
+segmentation.
+Unit3:
+Exploratory Analysis:
+
+13
+
+Descriptive and comparative statistics, Clustering and association, Hypothesis
+generation.
+Unit4: Visualization:
+Designing visualizations, Time series, Geolocated data, Correlations and connections,
+Hierarchies and networks, interactivity.
+
+COURSE OUTCOMES
+After completion of course, students would be:
+
+15
+
+ Able to extract the data for performing the Analysis.
+30 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+References:
+1. Making sense of Data: A practical Guide to Exploratory Data Analysis and Data Mining, by Glenn
+J. Myatt
+
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS207-18
+Secure Software Design and Enterprise Computing
+3
+Computer Programming, Software Engineering
+
+Total Number of Lectures:48
+
+COURSE OBJECTIVE
+ To fix software flaws and bugs in various software.
+
+ To make students aware of various issues like weak random number generation, information
+leakage, poor usability, and weak or no encryption on data traffic
+
+ Techniques for successfully implementing and supporting network services on an enterprise scale
+and heterogeneous systems environment.
+
+
+
+Methodologies and tools to design and develop secure software containing minimum
+vulnerabilities and flaws.
+
+LECTURE WITH BREAKUP
+Unit 1:
+
+NO. OF LECTURES
+
+Secure Software Design
+
+8
+
+Identify software vulnerabilities and perform software security analysis, Mastersecurity
+programming practices, Master fundamental software security design concepts,
+Perform security testing and quality assurance.
+
+31 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 2:
+Enterprise Application Development
+Describe the nature and scope of enterprise software applications, Design distributed Ntier software application, Research technologies available for the presentation, business
+and data tiers of an enterprise software application, Design and build a database using
+an enterprise database system, Develop components at the different tiers in an
+11
+enterprise system, Design and develop a multi-tier solution to a problem using
+technologies used in enterprise system, Present software solution.
+Unit 3:
+Enterprise Systems Administration
+Design, implement and maintain a directory-based server infrastructure in a
+heterogeneous systems environment, Monitor server resource utilization for system
+reliability and availability, Install and administer network services (DNS/DHCP/Terminal
+Services/Clustering/Web/Email).
+
+8
+
+Unit 4:
+Obtain the ability to manage and troubleshoot a network running multiple services,
+Understand the requirements of an enterprise network and how to go about managing
+them.
+
+8
+
+Unit 5:
+Handle insecure exceptions and command/SQL injection, Defend web and mobile
+applications against attackers, software containing minimum vulnerabilities and flaws.
+Unit 6:
+Case study of DNS server, DHCP configuration and SQL injection attack.
+
+COURSE OUTCOMES
+After completion of course, students would be able to:
+ Differentiate between various software vulnerabilities.
+ Software process vulnerabilities for an organization.
+ Monitor resources consumption in a software.
+ Interrelate security and software development process.
+
+9
+4
+
+32 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+References:
+1. Theodor Richardson, Charles N Thies, Secure Software Design, Jones & Bartlett
+
+2. Kenneth R. van Wyk, Mark G. Graff, Dan S. Peters, Diana L. Burley, Enterprise Software Security,
+Addison Wesley.
+
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS208-18
+Computer Vision
+3
+Linear algebra, vector calculus, Data structures and Programming.
+
+Total Number of Lectures: 48
+COURSE OBJECTIVE
+ Be familiar with both the theoretical and practical aspects of computing with images.
+
+ Have described the foundation of image formation, measurement, and analysis.
+ Understandthegeometricrelationshipsbetween2Dimagesandthe3Dworld.
+ Grasptheprinciplesofstate-of-the-art deepneuralnetworks.
+
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit 1:
+Overview, computer imaging systems, lenses, Image formation and sensing, Image
+analysis, pre-processing and Binary image analysis.
+Unit 2:
+Edge detection, Edge detection performance, Hough transform, corner detection.
+Unit 3:
+
+8
+9
+9
+
+Segmentation, Morphological filtering, Fourier transform.
+Unit 4:
+Feature extraction, shape, histogram, color, spectral, texture, using CVIPtools, Feature
+analysis, feature vectors, distance /similarity measures, data pre- processing.
+
+9
+
+33 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 5:
+Pattern Analysis:
+Clustering: K-Means, K-Medoids, Mixture of Gaussians
+Classification: Discriminant Function,
+supervised.
+
+Supervised,
+
+Un-supervised, Semi-
+
+9
+
+Classifiers: Bayes, KNN, ANN models; Dimensionality Reduction: PCA, LDA, ICA, and Nonparametric methods.
+Unit 6:
+4
+Recent trends inActivity Recognition, computational photography, Biometrics.
+
+COURSE OUTCOMES
+After completion of course, students would be able to:
+ Developed the practical skills necessary to build computer vision applications.
+ To have gained exposure to object and scene recognition and categorization from images.
+References:
+1. Computer Vision: Algorithms and Applications by Richard Szeliski.
+2. Deep Learning, by Goodfellow, Bengio, and Courville.
+
+3. Dictionary ofComputer VisionandImageProcessing,by Fisheretal.
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS209-18
+Human and Computer Interaction
+3
+
+Total Number of Lectures: 48
+
+34 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+COURSEOBJECTIVE
+
+
+
+
+
+LearnthefoundationsofHumanComputerInteraction
+Be familiar withthedesigntechnologies forindividualsandpersonswithdisabilities
+BeawareofmobileHumanComputerinteraction.
+Learntheguidelines foruserinterface.
+
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit 1:
+Human: I/O channels – Memory – Reasoning and problem solving; The computer:
+Devices – Memory – processing and networks; Interaction: Models– frameworks –
+Ergonomics – styles – elements – interactivity- Paradigms.
+Unit 2:
+Interactive Design basics – process – scenarios – navigation – screen design – Iteration
+and prototyping. HCI in software process – software life cycle – usability engineering –
+Prototyping in practice – design rationale. Design rules– principles, standards,
+guidelines, rules. Evaluation Techniques – Universal Design.
+
+9
+
+12
+
+Unit 3:
+Cognitive models –Socio-Organizational issues and stake holder requirements
+
+8
+
+–Communication and collaboration models-Hypertext, Multimedia and WWW.
+Unit 4:
+Mobile Ecosystem: Platforms, Application frameworks- Types of Mobile Applications:
+Widgets, Applications, Games- Mobile Information Architecture, Mobile 2.0, Mobile
+Design: Elements of Mobile Design, Tools.
+Unit 5:
+
+8
+
+Designing Web Interfaces – Drag & Drop, Direct Selection, Contextual Tools, Overlays,
+Inlays and Virtual Pages, Process Flow. Case Studies.
+
+8
+
+Unit 6:
+
+3
+
+Recent Trends: Speech Recognition and Translation, Multimodal System.
+COURSE OUTCOMES
+After completion of course, students would be:
+
+35 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+ Understand the structure of models and theries of human computer interaction and vision.\
+ Design an interactive web interface on the basis of models studied.
+References:
+1. Alan Dix, Janet Finlay, Gregory Abowd, Russell Beale, “Human Computer Interaction”, 3rd
+Edition, Pearson Education, 2004 (UNIT I , II & III)
+
+2. Brian Fling, “Mobile Design and Development”, First Edition , O17Reilly Media Inc., 2009 (UNIT – IV)
+3. Bill Scott and Theresa Neil, “Designing Web Interfaces”, First Edition, O17Reilly, 2009.(UNIT-V)
+Course Code
+Course Name
+
+MTCS210-18
+GPU Computing
+
+Credits
+Pre-Requisites
+
+3
+
+Total Number of Lectures: 48
+COURSE OBJECTIVE
+ To learn parallel programming with Graphics Processing Units (GPUs).
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit 1:
+Introduction: History, Graphics Processors, Graphics Processing Units, GPGPUs. Clock
+speeds, CPU / GPU comparisons, Heterogeneity, Accelerators, Parallel programming, CUDA
+OpenCL / OpenACC,Hello World Computation Kernels, Launch parameters, Thread hierarchy,
+Warps/ Wavefronts, Thread blocks / Workgroups, Streaming multiprocessors, 13 1D / 2D/
+3D thread mapping, Device properties, Simple Programs.
+Unit 2:
+Memory: Memory hierarchy, DRAM / global, local / shared, private / local, textures,
+Constant Memory, Pointers, Parameter Passing, Arrays and dynamic Memory, Multi-
+
+dimensional Arrays, Memory Allocation, Memory copying across devices, Programs with
+matrices, Performance evaluation with different memories.
+
+36 | P a g e
+
+7
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 3:
+Synchronization: Memory Consistency, Barriers (local versus global), Atomics, Memory
+fence. Prefix sum, Reduction. Programs for concurrent Data Structures such as Worklists,
+10
+Linked-lists. Synchronization across CPU and GPU Functions: Device functions, Host
+functions, Kernels functions, Using libraries (such as Thrust), and developing libraries.
+Unit 4:
+Support: Debugging GPU Programs. Profiling, Profile tools, Performance aspects
+Streams: Asynchronous processing, tasks, Task-dependence, Overlapped data transfers,
+Default Stream, Synchronization with streams. Events, Event-based- Synchronization Overlapping data transfer and kernel execution, pitfalls.
+Unit 5:
+
+8
+
+5
+
+Case Studies: Image Processing, Graph algorithms, Simulations, Deep Learning.
+Unit 6:
+Advanced topics: Dynamic parallelism, Unified Virtual Memory, Multi-GPU processing,
+Peer access, Heterogeneous processing.
+
+5
+
+COURSE OUTCOMES
+After completion of course, students would be:
+
+ Students would learnconcepts in parallel programming, implementation of programs on GPUs,
+debugging and profiling parallel programs.
+
+References:
+1. Programming Massively Parallel Processors: A Hands-on Approach; David Kirk, Wen-meiHwu; Morgan
+Kaufman; 2010 (ISBN: 978-0123814722)
+
+2. CUDA Programming: A Developer's Guide to Parallel Computing with GPUs; Shane Cook;
+Morgan Kaufman; 2012 (ISBN: 978-0124159334)
+
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS211-18
+Digital Forensics
+3
+Cybercrime and Information Warfare, Computer Networks
+
+Total Number of Lectures: 48
+
+37 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+COURSEOBJECTIVE
+ Providesanin-depthstudyoftherapidlychangingandfascinating fieldofcomputerforensics.
+ Combines both the technical expertise and the knowledge required to investigate, detect and
+prevent digital crimes.
+
+ Knowledge on digital forensics legislations, digital crime, forensics processes and procedures, data
+acquisition and validation, e-discovery tools.
+
+ E-evidence collection and preservation, investigating operating systems and file systems, network
+forensics, art of steganography and mobile device forensics.
+
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit 1:
+Digital Forensics Science: Forensics science, computer forensics, and digital forensics.
+Computer Crime: Criminalistics as it relates to the investigative process, analysis of
+cyber-criminalistics area, holistic approach to cyber-forensics.
+
+9
+
+Unit 2:
+Cyber Crime Scene Analysis: Discuss the various court orders etc., methods to search
+and seizure electronic evidence, retrieved and un-retrieved communications, Discuss
+the importance of understanding what court documents would be required for a
+criminal investigation.
+
+8
+
+Unit 3:
+Evidence Management & Presentation: Create and manage shared folders using
+operating system, importance of the forensic mindset, define the workload of law
+enforcement, Explain what the normal case would look like, Define who should be
+notified of a crime, parts of gathering evidence, Define and apply probable cause.
+
+9
+
+Unit 4:
+Computer Forensics: Prepare a case, Begin an investigation, Understand computer
+forensics workstations and software, Conduct an investigation, Complete a case,
+Critique a case,
+Network Forensics: open-source security tools for network forensic analysis,
+requirements for preservation of network data.
+
+10
+
+38 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 5:
+Mobile Forensics: mobile forensics techniques, mobile forensics tools.
+
+8
+
+Legal Aspects of Digital Forensics: IT Act 2000, amendment of IT Act 2008.
+Unit 6:
+Recent trends in mobile forensic technique and methods to search and seizure
+electronic evidence.
+
+4
+
+COURSE OUTCOMES
+After completion of course, students would be able to:
+ Understand relevant legislation and codes of ethics
+ Computer forensics and digital detective and various processes, policies and procedures
+ E-discovery, guidelines and standards, E-evidence, tools and environment.
+ Email and web forensics and network forensics
+References:
+1. John Sammons, The Basics of Digital Forensics, Elsevier
+
+2. John Vacca, Computer Forensics: Computer Crime Scene Investigation, Laxmi Publications
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS302-18
+Mobile Applications and Services
+3
+Wireless Communication and Mobile Computing
+
+Total Number of Lectures:48
+COURSE OBJECTIVE
+
+ This course presents the three main mobile platforms and their ecosystems, namely Android, iOS,
+and PhoneGap/WebOS.
+
+ It explores emerging technologies and tools used to design and implement feature-rich mobile
+applications for smartphones and tablets.
+
+
+
+It also take into account both the technical constraints relative to storage capacity, processing
+capacity, display screen, communication interfaces, and the user interface, context and profile
+
+39 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit 1:
+
+8
+
+Introduction:Introduction to Mobile Computing, Introduction to Android Development
+Environment, Factors in Developing Mobile Applications, Mobile Software Engineering,
+Frameworks and Tools, Generic UI Development Android User.
+Unit 2:
+
+8
+
+More on Uis: VUIs and Mobile Apps, Text-to-Speech Techniques, Designing the Right UI,
+Multichannel and Multimodal Uis,.Storing and Retrieving Data, Synchronization and
+Replication of Mobile Data, Getting the Model Right, Android Storing and Retrieving
+Data, Working with a Content Provider.
+Unit 3:
+
+10
+
+Communications via Network and the Web:State Machine, Correct Communications
+Model, Android Networking and Web, Telephony Deciding Scope of an App, Wireless
+Connectivity and Mobile Apps, Android Telephony.
+Notifications and Alarms:Performance, Performance and Memory Management,
+Android Notifications and Alarms, Graphics, Performance and Multithreading, Graphics
+and UI Performance, Android Graphics.
+Unit 4:
+
+9
+
+Putting It All Together: Packaging and Deploying, Performance Best Practices, Android
+Field Service App, Location Mobility and Location Based Services Android.
+Multimedia: Mobile Agents and Peer-to-Peer Architecture, Android Multimedia.
+Unit 5:
+
+8
+
+Platforms and Additional Issues: Development Process, Architecture, Design,
+Technology Selection, Mobile App Development Hurdles, Testing, Security and Hacking,
+Active Transactions, More on Security, Hacking Android.
+Unit 6:
+
+5
+
+Recent trends inCommunication protocols for IOT nodes, mobile computing techniques
+in IOT, agents based communications in IOT.
+
+COURSEOUTCOMES
+ Oncompletionofthecoursethestudent should beabletoidentify the target platform and users
+and be able to define and sketch a mobile application.
+
+40 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+ Understand the fundamentals, frameworks, and development lifecycle of mobile application
+
+
+platforms including iOS, Android, and PhoneGap.
+Design and develop a mobile application prototype in one of the platform (challenge project)
+
+References:
+1. Wei-Meng Lee, Beginning Android™ 4 Application Development, 2012 by John Wiley & Sons
+
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS303-18
+Compiler for HPC
+3
+Data Structure, Compiler Design, Theory of Computation
+
+Total Number of Lectures: 48
+
+COURSEOBJECTIVE
+Theobjectiveofthiscourseistointroducestructureofcompilersandhighperformancecompilerdesignf
+orstudents.Conceptsof cachecoherenceandparallelloopsincompilersareincluded.
+
+LECTURE WITH BREAKUP
+
+NO. OF LECTURES
+
+Unit1:
+High Performance Systems, Structure of a Compiler, Programming Language Features,
+Languages for High Performance.
+
+7
+
+Unit2:
+Data Dependence: Data Dependence in Loops, Data Dependence in Conditionals, Data
+Dependence in Parallel Loops, Program Dependence Graph.
+Scalar Analysis with Factored Use-Def Chains: Constructing Factored Use- Def Chains,
+FUD Chains for Arrays, Induction Variables Using FUD Chains, Constant Propagation with
+FUD Chains, Data Dependence for Scalars. Data Dependence Analysis for Arrays.
+
+7
+
+41 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit3:
+Array Region Analysis, Pointer Analysis, I/O Dependence, Procedure Calls, Interprocedural Analysis.
+Loop Restructuring: Simple Transformations, Loop Fusion, Loop Fission, Loop Reversal,
+Loop Interchanging, Loop Skewing, Linear Loop Transformations, Strip-Mining, Loop
+Tiling, Other Loop Transformations, and Inter-procedural Transformations.
+
+10
+
+Optimizing for Locality: Single Reference to Each Array, Multiple References, General
+Tiling, Fission and Fusion for Locality.
+Unit4:
+Concurrency Analysis: Concurrency from Sequential Loops, Concurrency from Parallel
+Loops, Nested Loops, Round off Error, Exceptions and Debuggers.
+
+10
+
+Vector Analysis: Vector Code, Vector Code from Sequential Loops, Vector Code from For
+all Loops, Nested Loops, Round off Error, Exceptions, and Debuggers, Multi-vector
+Computers.
+Unit5:
+Message-Passing Machines: SIMD Machines, MIMD Machines, Data Layout, Parallel
+Code for Array Assignment, Remote Data Access, Automatic Data Layout, Multiple Array
+Assignments, Other Topics.
+Scalable Shared-Memory Machines: Global Cache Coherence, Local Cache Coherence,
+Latency Tolerant Machines.
+Unit 6:
+Recent trends in compiler design for high performance computing and message passing 4
+machines and scalable shared memory machine.
+
+COURSE OUTCOMES
+After completion of course, students would be:
+ Familiar with the structure of compiler.
+
+ Parallel loops, data dependency and exception handling and debugging in compiler.
+References:
+
+10
+
+42 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+1. Michael Wolfe, High-Performance Compilers for Parallel Computing, Pearson
+
+Course Code
+Course Name
+Credits
+Pre-Requisites
+
+MTCS304-18
+Optimization Techniques
+3
+Linear Algebra and Numerical Methods
+
+Total Number of Lectures: 48
+
+COURSEOBJECTIVE
+
+
+
+Theobjectiveofthiscourseistoprovideinsighttothemathematicalformulationofrealworldproble
+ms.
+Tooptimizethesemathematicalproblemsusingnaturebasedalgorithms.Andthesolutionisusefule
+speciallyforNP-Hardproblems.
+
+LECTURE WITH BREAKUP
+Unit 1:
+
+NO. OF
+LECTURES
+
+Engineering application of Optimization, Formulation of design problems as mathematical
+programming problems.
+Unit 2:
+
+7
+
+General Structure of Optimization Algorithms, Constraints, The Feasible Region.
+
+7
+
+Unit 3:
+Branches of Mathematical Programming: Optimization using calculus, Graphical
+Optimization, Linear Programming, Quadratic Programming, Integer Programming, Semi
+Definite Programming.
+
+11
+
+Unit 4:
+Optimization Algorithms like Genetic Optimization, Particle Swarm Optimization, Ant
+Colony Optimization etc.
+
+12
+
+43 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 5:
+Real life Problems and their mathematical formulation as standard programming
+problems.
+
+6
+
+Unit 6:
+Recent trends: Applications of ant colony optimization, genetics and linear and quadratic
+programming in real world applications.
+
+5
+
+COURSE OUTCOMES
+After completion of course, students would be:
+
+ Formulate optimization problems.
+ Understand and apply the concept of optimality criteria for various types of optimization problems.
+ Solve various constrained and unconstrained problems in Single variable as well as
+multivariable.
+
+ Apply the methods of optimization in real life situation.
+References:
+1. Laurence A. Wolsey (1998). Integer programming. Wiley. ISBN 978-0-471-28366-9.
+
+2. Practical Optimization Algorithms and Engineering Applications Andreas Antoniou.
+3. An Introduction to Optimization Edwin K., P. Chong & Stanislaw h. Zak.
+
+4. Dimitris Bertsimas; Robert Weismantel (2005). Optimization over integers. Dynamic Ideas. ISBN 9780-9759146-2-5.
+5. John K. Karlof (2006). Integer programming: theory and practice.CRC Press. ISBN 978-0-8493- 1914-3.
+6. H. Paul Williams (2009). Logic and Integer Programming. Springer. ISBN 978-0-387-92279-9.
+
+7. Michael Jünger; Thomas M. Liebling; Denis Naddef; George Nemhauser; William R. Pulleyblank;
+Gerhard Reinelt; Giovanni Rinaldi; Laurence A. Wolsey, eds. (2009). 50 Years of Integer Programming
+1958-2008: From the Early Years to the State-of-the- Art. Springer. ISBN 978-3- 540-68274-5.
+8. Der-San Chen; Robert G. Batson; Yu Dang (2010). Applied Integer Programming: Modeling and
+Solution. John Wiley and Sons. ISBN 978-0-470-37306-4.
+
+OPEN ELECTIVES
+
+44 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Business Analytics
+Teaching scheme Lecture: - 3 h/week
+Course Code
+
+MTOE301-18
+
+Course Name
+
+Business Analytics
+
+Credits Prerequisites
+Total Number of Lectures: 48
+
+Courseobjective
+Understandtheroleofbusinessanalyticswithinanorganization.
+Analyzedatausingstatisticalanddataminingtechniquesandunderstandrelationshipsbetweenthe
+underlying businessprocessesofanorganization.
+Togainanunderstandingofhowmanagersusebusinessanalyticstoformulateandsolvebusinesspro
+blemsandto supportmanagerialdecisionmaking.
+
+Tobecomefamiliar withprocessesneededtodevelop, report,andanalyzebusinessdata.
+Usedecision-makingtools/Operationsresearchtechniques.
+Mangebusinessprocessusinganalyticaland managementtools.
+Analyzeandsolveproblemsfromdifferent
+industriessuchasmanufacturing,service,retail,software,bankingandfinance,sports,pharmaceuti
+cal,aerospaceetc.
+
+45 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+LECTURE WITH BREAKUP
+
+NO. OFLECTURES
+
+Unit1:
+Business analytics: Overview of Business analytics, Scope of Business analytics,
+Business Analytics Process, Relationship of Business Analytics Process and
+organization, competitive advantages of Business Analytics.
+
+9
+
+Statistical Tools: Statistical Notation, Descriptive Statistical methods, Review of
+probability distribution and data modelling, sampling and estimation methods
+overview.
+Unit 2:
+Trendiness and Regression Analysis: Modelling Relationships and Trends in Data,
+simple Linear Regression.
+
+8
+
+Important Resources, Business Analytics Personnel, Data and models for Business
+analytics, problem solving, Visualizing and Exploring Data, Business Analytics
+Technology.
+Unit 3:
+Organization Structures of Business analytics, Team management, Management
+Issues, Designing Information Policy, Outsourcing, Ensuring Data Quality, Measuring
+contribution of Business analytics, Managing Changes.
+
+9
+
+Descriptive Analytics, predictive analytics, predicative Modelling, Predictive analytics
+analysis, Data Mining, Data Mining Methodologies, Prescriptive analytics and its step
+in the business analytics Process, Prescriptive Modelling, nonlinear Optimization.
+Unit 4:
+Forecasting Techniques: Qualitative and Judgmental Forecasting, Statistical
+Forecasting Models, Forecasting Models for Stationary Time Series, Forecasting
+Models for Time Series with a Linear Trend, Forecasting Time Series with Seasonality,
+Regression Forecasting with Casual Variables, Selecting Appropriate Forecasting
+Models.
+Monte Carlo Simulation and Risk Analysis: Monte Carle Simulation UsingAnalytic
+Solver Platform, New-Product Development Model, Newsvendor Model,
+Overbooking Model, Cash Budget Model.
+
+10
+
+46 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit 5:
+Decision Analysis: Formulating Decision Problems, Decision Strategies with the
+without Outcome Probabilities, Decision Trees, The Value of Information, Utility and
+Decision Making.
+
+8
+
+Unit 6:
+Recent Trends in: Embedded and collaborative business intelligence, Visual data
+recovery, Data Storytelling and Data journalism.
+
+4
+
+COURSE OUTCOMES
+
+1.
+
+Students will demonstrate knowledge of data analytics.
+
+2.
+
+Students will demonstrate the ability of think critically in making decisions based on data and deep
+analytics.
+
+3.
+
+Students will demonstrate the ability to use technical skills in predicative and prescriptive modeling
+to support business decision-making.
+
+4.
+
+Students will demonstrate the ability to translate data into clear, actionable insights.
+
+Reference:
+1. Business analytics Principles, Concepts, and Applications by Marc J. Schniederjans, Dara G.
+Schniederjans, Christopher M. Starkey, Pearson FT Press.
+2. Business Analytics by James Evans, persons Education.
+
+OPEN ELECTIVES
+Industrial Safety
+
+Teaching scheme Lecture: - 3 h/week
+Unit-I: Industrial safety: Accident, causes, types, results and control, mechanical and electrical hazards, types,
+causes and preventive steps/procedure, describe salient points of factories act 1948 for health and safety, wash
+rooms, drinking water layouts, light, cleanliness, fire, guarding, pressure vessels, etc., Safety color codes. Fire
+prevention and firefighting, equipment and methods.
+
+47 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Unit-II: Fundamentals of maintenance engineering: Definition and aim of maintenance engineering, Primary
+and secondary functions and responsibility of maintenance department, Types of maintenance, Types and
+applications of tools used for maintenance, Maintenance cost & its relation with replacement economy, Service
+life of equipment.
+Unit-III: Wear and Corrosion and their prevention: Wear- types, causes, effects, wear reduction methods,
+lubricants-types and applications, Lubrication methods, general sketch, working and applications,
+i.
+Screw down grease cup,
+ii.
+Pressure grease gun,
+iii.
+Splash lubrication,
+iv.
+Gravity lubrication,
+v.
+Wick feed lubrication
+vi.
+Side feed lubrication,
+vii.
+Ring lubrication,
+Definition, principle and factors affecting the corrosion. Types of corrosion, corrosion prevention
+methods.
+
+Unit-IV: Fault tracing: Fault tracing-concept and importance, decision treeconcept, need and applications,
+sequence of fault finding activities, show as decision tree, draw decision tree for problems in machine tools,
+hydraulic, pneumatic, automotive, thermal and electrical equipment’s like,
+I.
+Any onemachine tool,
+AI.
+Pump,
+BI.
+Air compressor,
+IV.
+V.
+
+Internal combustion engine,
+Boiler,
+
+VI.
+
+Electrical motors,
+
+Types of faults in machine tools and their general causes.
+Unit-V: Periodic and preventive maintenance: Periodic inspection-concept and need, degreasing, cleaning and
+repairing schemes, overhauling of mechanical components, overhauling of electrical motor, common troubles
+and remedies of electric motor, repair complexities and its use, definition, need, steps and advantages of
+preventive maintenance. Steps/procedure for periodic and preventive maintenance of: I. Machine tools, ii.
+Pumps, iii. Air compressors, iv. Diesel generating (DG) sets, Program and schedule of preventive maintenance of
+mechanical and electrical equipment, advantages of preventive maintenance. Repair cycle concept and
+importance
+
+Reference:
+1. Maintenance Engineering Handbook, Higgins & Morrow, Da Information Services.
+2. Maintenance Engineering, H. P. Garg, S. Chand and Company.
+
+48 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+3. Pump-hydraulic Compressors, Audels, Mcgrew Hill Publication.
+
+4. Foundation Engineering Handbook, Winterkorn, Hans, Chapman & Hall London.
+
+OPEN ELECTIVES
+Operations Research
+Teaching Scheme Lectures: 3 hrs/week
+Course Outcomes:
+At the end of the course, the student should be able to:
+1. Students should able to apply the dynamic programming to solve problems of discreet and continuous
+variables.
+2. Students should able to apply the concept of non-linear programming
+3. Students should able to carry out sensitivity analysis
+4. Student should able to model the real world problem and simulate it.
+Syllabus Contents: Unit 1:
+Optimization Techniques, Model Formulation, models, General L.R Formulation, Simplex Techniques, Sensitivity
+Analysis, Inventory Control Models
+Unit 2
+Formulation of a LPP - Graphical solution revised simplex method - duality theory - dual simplex method sensitivity analysis - parametric programming
+Unit 3:
+Nonlinear programming problem - Kuhn-Tucker conditions min cost flow problem - max flow problem CPM/PERT
+Unit 4
+Scheduling and sequencing - single server and multiple server models - deterministic inventory models Probabilistic inventory control models - Geometric Programming.
+Unit 5
+
+49 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Competitive Models, Single and Multi-channel Problems, Sequencing Models, Dynamic Programming, Flow in
+Networks, Elementary Graph Theory, Game Theory Simulation
+References:
+1. H.A. Taha, Operations Research, An Introduction, PHI, 2008.
+
+2. H.M. Wagner, Principles of Operations Research, PHI, Delhi, 1982.
+
+3. J.C. Pant, Introduction to Optimisation: Operations Research, Jain Brothers, Delhi, 2008
+4. Hitler Libermann Operations Research: McGraw Hill Pub. 2009.
+
+5. Pannerselvam, Operations Research: Prentice Hall of India 2010.
+
+6. Harvey M Wagner, Principles of Operations Research: Prentice Hall of India 2010.
+
+Open Elective
+Cost Management of Engineering Projects
+Teaching scheme
+Lecture: - 3 h/week
+Introduction and Overview of the Strategic Cost Management Process.
+Cost concepts in decision-making; relevant cost, Differential cost, Incremental cost and Opportunity cost.
+Objectives of a Costing System; Inventory valuation; Creation of a Database for operational control; Provision of
+data for Decision-Making.
+Project: meaning, Different types, why to manage, cost overruns centres, various stages of project execution:
+conception to commissioning. Project execution as conglomeration of technical and non- technical activities. Detailed
+Engineering activities. Pre project execution main clearances and documents Project team: Role of each member.
+Importance Project site: Data required with significance. Project contracts. Types and contents. Project execution
+Project cost control. Bar charts and Network diagram. Project commissioning: mechanical and process
+
+Cost Behavior and Profit Planning Marginal Costing; Distinction between Marginal Costing and Absorption
+Costing; Break-even Analysis, Cost-Volume-Profit Analysis. Various decision-making problems. Standard Costing
+and Variance Analysis. Pricing strategies: Pareto Analysis. Target costing, Life Cycle Costing. Costing of service
+sector. Just-in-time approach, Material Requirement Planning, Enterprise Resource Planning, Total Quality
+
+50 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Management and Theory of constraints. Activity-Based Cost Management, Bench Marking; Balanced Score Card
+and Value-Chain Analysis. Budgetary Control; Flexible Budgets; Performance budgets; Zero-based budgets.
+Measurement of Divisional profitability pricing decisions including transfer pricing.
+Quantitative techniques for cost management, Linear Programming, PERT/CPM, Transportation problems,
+Assignment problems, Simulation, Learning Curve Theory.
+References:
+1. Cost Accounting A Managerial Emphasis, Prentice Hall of India, New Delhi
+
+2. Charles T. Horngren and George Foster, Advanced Management Accounting
+3. Robert S Kaplan Anthony A. Alkinson, Management & Cost Accounting
+
+4. Ashish K. Bhattacharya, Principles & Practices of Cost Accounting A. H. Wheeler publisher
+5. N.D. Vohra, Quantitative Techniques in Management, Tata McGraw Hill Book Co. Ltd.
+
+51 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Open Elective Composite Materials
+Teaching Scheme
+Lecture: 3h/week
+UNIT–I: INTRODUCTION: Definition – Classification and characteristics of Composite materials. Advantages and
+application of composites. Functional requirements of reinforcement and matrix. Effect of reinforcement (size,
+shape, distribution, volume fraction) on overall composite performance.
+UNIT – II: REINFORCEMENTS: Preparation-layup, curing, properties and applications of glass fibers, carbon fibers,
+Kevlar fibers and Boron fibers. Properties and applications of whiskers, particle reinforcements. Mechanical Behavior
+of composites: Rule of mixtures, Inverse rule of mixtures. Isostrain and Isostress conditions.
+
+UNIT – III: Manufacturing of Metal Matrix Composites: Casting – Solid State diffusion technique, Cladding – Hot
+isostatic pressing. Properties and applications. Manufacturing of Ceramic Matrix Composites: Liquid Metal
+Infiltration – Liquid phase sintering. Manufacturing of Carbon – Carbon composites: Knitting, Braiding, Weaving.
+Properties and applications.
+UNIT–IV: Manufacturing of Polymer Matrix Composites: Preparation of Moulding compounds and prepregs –
+hand layup method – Autoclave method – Filament winding method – Compression moulding – Reaction
+injection moulding. Properties and applications.
+UNIT – V: Strength: Laminar Failure Criteria-strength ratio, maximum stress criteria, maximum strain criteria,
+interacting failure criteria, hygrothermal failure. Laminate first play failure-insight strength; Laminate strengthply discount truncated maximum strain criterion; strength design using caplet plots; stress concentrations.
+TEXT BOOKS:
+1. Material Science and Technology – Vol 13 – Composites by R.W.Cahn – VCH, West Germany.
+
+2. Materials Science and Engineering, An introduction. WD Callister, Jr., Adapted by R.
+Balasubramaniam, John Wiley & Sons, NY, Indian edition, 2007.
+References:
+1. Hand Book of Composite Materials-ed-Lubin.
+2. Composite Materials – K.K.Chawla.
+
+3. Composite Materials Science and Applications – Deborah D.L. Chung.
+
+4. Composite Materials Design and Applications – Danial Gay, Suong V. Hoa, and Stephen W. Tasi.
+
+52 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Open Elective Waste to Energy
+Teaching Schema
+Lecture: 3h/week
+Unit-I: Introduction to Energy from Waste: Classification of waste as fuel – Agro based, Forest residue,
+Industrial waste - MSW – Conversion devices – Incinerators, gasifiers, digestors
+Unit-II: Biomass Pyrolysis: Pyrolysis – Types, slow fast – Manufacture of charcoal – Methods - Yields and
+application – Manufacture of pyrolytic oils and gases, yields and applications.
+Unit-III: Biomass Gasification: Gasifiers – Fixed bed system – Downdraft and updraft gasifiers – Fluidized
+bed gasifiers – Design, construction and operation – Gasifier burner arrangement for thermal heating –
+Gasifier engine arrangement and electrical power – Equilibrium and kinetic consideration in gasifier
+operation.
+Unit-IV: Biomass Combustion: Biomass stoves – Improved chullahs, types, some exotic designs, Fixed
+bed combustors, Types, inclined grate combustors, Fluidized bed combustors, Design, construction and
+operation - Operation of all the above biomass combustors.
+Unit-V: Biogas: Properties of biogas (Calorific value and composition) - Biogas plant technology and
+status - Bio energy system - Design and constructional features - Biomass resources and their
+classification - Biomass conversion processes - Thermo chemical conversion - Direct combustion biomass gasification - pyrolysis and liquefaction - biochemical conversion - anaerobic digestion - Types
+of biogas Plants – Applications - Alcohol production from biomass - Bio diesel production - Urban waste
+to energy conversion - Biomass energy programme in India.
+
+References:
+1. Non-Conventional Energy, Desai, Ashok V., Wiley Eastern Ltd., 1990.
+
+2. Biogas Technology - A Practical Hand Book - Khandelwal, K. C. and Mahdi, S. S., Vol. I & II, Tata
+McGraw Hill Publishing Co. Ltd., 1983.
+3. Food, Feed and Fuel from Biomass, Challal, D. S., IBH Publishing Co. Pvt. Ltd., 1991.
+
+4. Biomass Conversion and Technology, C. Y. WereKo-Brobby and E. B. Hagan, John Wiley & Sons,
+1996.
+
+53 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+AUDIT 1 and 2: ENGLISH FOR RESEARCH PAPER WRITING
+Course objectives:
+Students will be able to:
+Understand that how to improve your writing skills and level of readability
+Learn about what to write in each section
+Syllabus
+Units
+
+CONTENTS
+
+Hours
+
+1
+
+Planning and Preparation, Word Order, Breaking up long sentences, Structuring
+Paragraphs and Sentences, Being Concise and Removing Redundancy, Avoiding
+Ambiguity and Vagueness
+
+4
+
+2
+
+Clarifying Who Did What, Highlighting Your Findings, Hedging and Criticising,
+Paraphrasing and Plagiarism, Sections of a Paper, Abstracts. Introduction
+
+4
+
+3
+
+Review of the Literature, Methods, Results, Discussion, Conclusions, The Final
+Check.
+
+4
+
+4
+
+key skills are needed when writing a Title, key skills are needed when writing an
+Abstract, key skills are needed when writing an Introduction, skills needed when
+writing a Review of the Literature,
+skills are needed when writing the Methods, skills needed when writing the Results,
+skills are needed when writing the Discussion, skills are needed when writing the
+Conclusions
+useful phrases, how to ensure paper is as good as it could possibly be the first- time
+submission
+
+4
+
+5
+
+6
+
+4
+
+4
+
+Suggested Studies:
+1. Goldbort R (2006) Writing for Science, Yale University Press (available on Google Books)
+2. Day R (2006) How to Write and Publish a Scientific Paper, Cambridge University Press
+
+3. Highman N (1998), Handbook of Writing for the Mathematical Sciences, SIAM. Highman’sbook
+.
+
+54 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+4. Adrian Wallwork , English for Writing Research Papers, Springer New York Dordrecht
+Heidelberg London, 2011
+
+AUDIT 1 and 2: DISASTER MANAGEMENT
+Course Objectives: -Students will be able to:
+
+1. Learn to demonstrate a critical understanding of key concepts in disaster risk reduction and
+humanitarian response.
+
+2. Critically evaluate disaster risk reduction and humanitarian response policy and practice from multiple
+perspectives.
+
+3. Develop an understanding of standards of humanitarian response and practical relevance in specific
+types of disasters and conflict situations.
+
+Syllabus
+Units
+1
+Introduction
+
+2
+
+CONTENTS
+
+Disaster: Definition, Factors And Significance; Difference Between Hazard And
+Disaster; Natural And Manmade Disasters: Difference, Nature, Types And Magnitude.
+Repercussions Of Disasters And Hazards:
+
+Hours
+4
+
+4
+
+Economic Damage, Loss Of Human And Animal Life, Destruction Of Ecosystem.
+
+3
+
+Natural Disasters: Earthquakes, Volcanisms, Cyclones, Tsunamis, Floods, Droughts And
+Famines, Landslides And Avalanches, Man-made disaster: Nuclear Reactor Meltdown,
+Industrial Accidents, Oil Slicks And Spills, Outbreaks Of Disease And Epidemics, War
+And Conflicts.
+Disaster Prone Areas In India
+Study Of Seismic Zones; Areas Prone To Floods And Droughts, Landslides And
+Avalanches; Areas Prone To Cyclonic And Coastal Hazards With Special Reference To
+Tsunami; Post-Disaster Diseases And Epidemics
+
+4
+
+55 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+4
+
+Disaster Preparedness And Management
+
+4
+
+Preparedness: Monitoring Of Phenomena Triggering A Disaster Or Hazard; Evaluation
+Of Risk: Application Of Remote Sensing, Data From Meteorological And Other
+Agencies, Media Reports: Governmental And Community Preparedness.
+5
+
+Risk Assessment
+
+4
+
+Disaster Risk: Concept And Elements, Disaster Risk Reduction, Global And National
+Disaster Risk Situation. Techniques Of Risk Assessment, Global Co- Operation In Risk
+Assessment And Warning, People’s Participation In Risk Assessment. Strategies for
+Survival.
+6
+
+Disaster Mitigation
+
+4
+
+Meaning, Concept And Strategies Of Disaster Mitigation, Emerging Trends In
+Mitigation. Structural Mitigation And Non-Structural Mitigation, Programs Of Disaster
+Mitigation In India.
+SUGGESTED READINGS:
+1. R. Nishith, Singh AK, “Disaster Management in India: Perspectives, issues and strategies “’New
+Royal book Company.
+2. Sahni, PardeepEt.Al. (Eds.),” Disaster Mitigation Experiences and Reflections”, Prentice Hall Of
+India, New Delhi.
+3. Goel S. L. , Disaster Administration And Management Text And Case Studies” ,Deep &Deep
+Publication Pvt. Ltd., New Delhi.
+4.
+
+AUDIT 1 and 2: SANSKRIT FOR TECHNICAL KNOWLEDGE
+Course Objectives
+1. To get a working knowledge in illustrious Sanskrit, the scientific language in the world
+2. Learning of Sanskrit to improve brain functioning
+
+3. Learning of Sanskrit to develop the logic in mathematics, science & other subjects
+4. enhancing the memory power
+
+56 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+5. The engineering scholars equipped with Sanskrit will be able to explore the huge knowledge
+from ancient literature
+
+Syllabus
+
+Unit
+1
+
+2
+
+3
+
+Content
+
+
+
+Alphabets in Sanskrit,
+
+
+
+Past/Present/Future Tense,
+
+
+
+Simple Sentences
+
+
+
+Order
+
+
+
+Introduction of roots
+
+
+
+Technical information about Sanskrit Literature
+
+
+
+Technical concepts of Engineering-Electrical, Mechanical, Architecture,
+Mathematics
+
+Hours
+8
+
+8
+
+8
+
+Suggested reading
+1. “Abhyaspustakam” – Dr.Vishwas, Samskrita-Bharti Publication, New Delhi
+
+2. “Teach Yourself Sanskrit” Prathama Deeksha-VempatiKutumbshastri, Rashtriya Sanskrit
+Sansthanam, New Delhi Publication
+3. “India’s Glorious Scientific Tradition” Suresh Soni, Ocean books (P) Ltd., New Delhi.
+
+Course Output
+
+Students will be able to
+1. Understanding basic Sanskrit language
+
+2. Ancient Sanskrit literature about science & technology can be understood
+3. Being a logical language will help to develop logic in students
+
+57 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+AUDIT 1 and 2: VALUE EDUCATION
+Course Objectives
+Students will be able to
+1. Understand value of education and self- development
+2. Imbibe good values in students
+
+3. Let the should know about the importance of character
+Syllabus
+Unit
+1
+
+Content
+
+Hours
+
+ Values and self-development –Social values and individual attitudes.
+
+4
+
+Work ethics, Indian vision of humanism.
+
+2
+
+
+
+Moral and non- moral valuation. Standards and principles.
+
+
+
+Value judgements
+
+
+
+Importance of cultivation of values.
+
+
+
+Sense
+of
+duty. Devotion,
+Concentration. Truthfulness, Cleanliness.
+
+6
+Self-reliance.
+
+ Honesty, Humanity. Power of faith, National Unity.
+ Patriotism, Love for nature ,Discipline
+
+Confidence,
+
+58 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+3
+
+
+
+Personality and Behavior Development - Soul and Scientific attitude.
+Positive Thinking. Integrity and discipline.
+
+6
+
+ Punctuality, Love and Kindness.
+
+
+Avoid fault Thinking.
+
+ Free from anger, Dignity of labour.
+ Universal brotherhood and religious tolerance.
+
+
+True friendship.
+
+ Happiness Vs suffering, love for truth.
+ Aware of self-destructive habits.
+
+
+Association and Cooperation.
+
+ Doing best for saving nature
+4
+
+
+
+Character and Competence –Holy books vs Blind faith.
+
+6
+
+ Self-management and Good health.
+
+
+Science of reincarnation.
+
+ Equality, Nonviolence, Humility, Role of Women.
+ All religions and same message.
+ Mind your Mind, Self-control.
+
+
+Honesty, Studying effectively
+
+Suggested reading
+1. Chakroborty, S.K. “Values and Ethics for organizations Theory and practice”, Oxford University Press,
+New Delhi
+Course outcomes
+Students will be able to
+
+59 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+1. Knowledge of self-development
+
+2. Learn the importance of Human values
+3. Developing the overall personality
+AUDIT 1 and 2: CONSTITUTION OF INDIA
+Course Objectives:
+
+1. Students will be able to:
+2. Understand the premises informing the twin themes of liberty and freedom from a civil rights
+perspective.
+
+3. To address the growth of Indian opinion regarding modern Indian intellectuals’ constitutionalrole
+
+and entitlement to civil and economic rights as well as the emergence of nationhood in the early
+years of Indian nationalism.
+
+4. 3. To address the role of socialism in India after the commencement of the Bolshevik
+Revolution in 1917 and its impact on the initial drafting of the Indian Constitution.
+
+Syllabus
+Units
+
+Content
+
+Hours
+
+ History of Making of the Indian Constitution:
+
+1
+
+ History
+
+4
+
+ Drafting Committee, ( Composition & Working)
+
+ Philosophy of the Indian Constitution:
+2
+
+ Preamble Salient Features
+
+4
+
+60 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+ Contours of Constitutional Rights & Duties:
+
+ Fundamental Rights
+
+
+Right to Equality
+
+
+
+Right to Freedom
+
+
+
+Right against Exploitation
+
+ Right to Freedom of Religion
+
+3
+
+
+
+Cultural and Educational Rights
+
+4
+
+ Right to Constitutional Remedies
+ Directive Principles of State Policy
+
+
+Fundamental Duties.
+
+ Organs of Governance:
+ Parliament
+
+4
+
+
+
+Composition
+
+
+
+Qualifications and Disqualifications
+
+
+
+Powers and Functions
+
+
+
+Executive
+
+
+
+President
+
+
+
+Governor
+
+
+
+Council of Ministers
+
+
+
+Judiciary, Appointment and Transfer of Judges, Qualifications
+
+
+
+Powers and Functions
+
+4
+
+61 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+ Local Administration:
+ District’s Administration head: Role and Importance,
+
+5
+
+ Municipalities: Introduction, Mayor and role of Elected Representative, CEO
+
+4
+
+of Municipal Corporation.
+ Pachayati raj: Introduction, PRI: ZilaPachayat.
+ Elected officials and their roles, CEO ZilaPachayat: Position and role.
+ Block level: Organizational Hierarchy (Different departments),
+ Village level: Role of Elected and Appointed officials,
+ importance of grass root democracy
+
+ Election Commission:
+
+ Election Commission: Role and Functioning.
+
+6
+
+ Chief Election Commissioner and Election Commissioners.
+ State Election Commission: Role and Functioning.
+ Institute and Bodies for the welfare of SC/ST/OBC and women.
+
+Suggested reading
+1. The Constitution of India, 1950 (Bare Act), Government Publication.
+2. Dr. S. N. Busi, Dr. B. R. Ambedkar framing of Indian Constitution, 1st Edition, 2015.
+3. M. P. Jain, Indian Constitution Law, 7th Edn., Lexis Nexis, 2014.
+4. D.D. Basu, Introduction to the Constitution of India, Lexis Nexis, 2015.
+Course Outcomes:
+Students will be able to:
+1. Discuss the growth of the demand for civil rights in India for the bulk of Indians before the
+arrival of Gandhi in Indian politics.
+2. Discuss the intellectual origins of the framework of argument that informed the
+conceptualization of social reforms leading to revolution in India.
+
+4
+
+62 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+3. Discuss the circumstances surrounding the foundation of the Congress Socialist Party [CSP]
+under the leadership of Jawaharlal Nehru and the eventual failure of the proposal of direct
+elections through adult suffrage in the Indian Constitution.
+4. Discuss the passage of the Hindu Code Bill of 1956.
+
+AUDIT 1 and 2: PEDAGOGY STUDIES
+Course Objectives:
+Students will be able to:
+
+1. Review existing evidence on the review topic to inform programme design and policy making
+undertaken by the DfID, other agencies and researchers.
+
+2. Identify critical evidence gaps to guide the development.
+Syllabus
+Units
+
+Content
+
+Hours
+
+ Introduction and Methodology:
+ Aims and rationale, Policy background, Conceptual framework and
+
+terminology
+
+1
+
+ Theories of learning, Curriculum, Teacher education.
+
+4
+
+ Conceptual framework, Research questions.
+ Overview of methodology and Searching.
+
+ Thematic overview:
+2
+
+
+
+Pedagogical practices are being used by teachers in formal and informal
+classrooms in developing countries.
+
+
+
+Curriculum, Teacher education.
+
+2
+
+63 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+3
+
+ Evidence on the effectiveness of pedagogical practices
+
+4
+
+ Methodology for the in depth stage: quality assessment of included studies.
+ How can teacher education (curriculum and practicum) and the school curriculum
+and guidance materials best support effective pedagogy?
+
+ Theory of change.
+ Strength and nature of the body of evidence for effective pedagogical practices.
+ Pedagogic theory and pedagogical approaches.
+ Teachers’ attitudes and beliefs and Pedagogic strategies.
+ Professional development: alignment with classroom practices and follow- up
+support
+
+ Peer support
+4
+
+ Support from the head teacher and the community.
+
+4
+
+ Curriculum and assessment
+ Barriers to learning: limited resources and large class sizes
+ Research gaps and future directions
+ Research design
+ Contexts
+
+5
+
+ Pedagogy
+ Teacher education
+ Curriculum and assessment
+ Dissemination and research impact.
+
+Suggested reading
+
+2
+
+1. Ackers J, Hardman F (2001) Classroom interaction in Kenyan primary schools, Compare, 31 (2):
+245-261.
+
+64 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+2. Agrawal M (2004) curricular reform in schools: The importance of evaluation, Journal of
+Curriculum Studies, 36 (3): 361-379.
+3. Akyeampong K (2003) Teacher training in Ghana - does it count? Multi-site teacher education
+research project (MUSTER) country report 1. London: DFID.
+4. Akyeampong K, Lussier K, Pryor J, Westbrook J (2013) Improving teaching and learning of basic
+maths and reading in Africa: Does teacher preparation count? International Journal Educational
+Development, 33 (3): 272–282.
+5. Alexander RJ (2001) Culture and pedagogy: International comparisons in primary education.
+Oxford and Boston: Blackwell.
+6. Chavan M (2003) Read India: A mass scale, rapid, ‘learning to read’ campaign.
+7. www.pratham.org/images/resource%20working%20paper%202.pdf.
+
+Course Outcomes:
+
+Students will be able to understand:
+1. What pedagogical practices are being used by teachers in formal and informal classrooms in
+developing countries?
+2. What is the evidence on the effectiveness of these pedagogical practices, in what conditions,
+and with what population of learners?
+3. How can teacher education (curriculum and practicum) and the school curriculum and guidance
+materials best support effective pedagogy?
+AUDIT 1 and 2: STRESS MANAGEMENT BY YOGA
+Course Objectives
+1. To achieve overall health of body and mind
+2. To overcome stress
+
+65 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Syllabus
+Unit
+1
+2
+
+Content
+ Definitions of Eight parts of yog. ( Ashtanga )
+Yam and Niyam. Do`s and Don’t’s in life.
+
+Hours
+8
+8
+
+i) Ahinsa, satya, astheya, bramhacharya and aparigraha
+ii) Shaucha, santosh, tapa, swadhyay, ishwarpranidhan
+3
+
+ Asan and Pranayam
+
+8
+
+i) Various yog poses and their benefits for mind & body
+ii)Regularization of breathing techniques and its effects-Types of
+pranayam
+
+Suggested Reading
+1. ‘Yogic Asanas for Group Tarining-Part-I” : Janardan Swami Yogabhyasi Mandal, Nagpur
+2. “Rajayoga or conquering the Internal Nature” by Swami Vivekananda, Advaita
+Ashrama (Publication Department), Kolkata
+
+Course Outcomes:
+Students will be able to:
+1. Develop healthy mind in a healthy body thus improving social health also
+2. Improve efficiency
+
+AUDIT 1 and 2: PERSONALITY DEVELOPMENT THROUGH LIFE ENLIGHTENMENT SKILLS
+Course Objectives
+1. To learn to achieve the highest goal happily
+
+2. To become a person with stable mind, pleasing personality and determination
+3. To awaken wisdom in students
+
+66 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+Syllabus
+Unit
+1
+
+Content
+Neetisatakam-Holistic development of personality
+
+Hours
+8
+
+ Verses- 19,20,21,22 (wisdom)
+ Verses- 29,31,32 (pride & heroism)
+
+
+
+
+2
+
+3
+
+Verses- 26,28,63,65 (virtue)
+Verses- 52,53,59 (dont’s)
+Verses- 71,73,75,78 (do’s)
+
+
+
+Approach to day to day work and duties.
+
+
+
+Shrimad BhagwadGeeta : Chapter 2-Verses 41, 47,48,
+
+
+
+Chapter 3-Verses 13, 21, 27, 35, Chapter 6-Verses 5,13,17, 23, 35,
+
+
+
+Chapter 18-Verses 45, 46, 48.
+
+
+Statements of basic knowledge.
+
+ Shrimad BhagwadGeeta: Chapter2-Verses 56, 62, 68
+ Chapter 12 -Verses 13, 14, 15, 16,17, 18
+ Personality of Role model. Shrimad BhagwadGeeta: Chapter2-Verses 17,
+Chapter 3-Verses 36,37,42,
+ Chapter 4-Verses 18, 38,39
+
+Suggested reading
+1. “Srimad Bhagavad Gita” by Swami SwarupanandaAdvaita Ashram (Publication Department),
+Kolkata
+2. Bhartrihari’s Three Satakam (Niti-sringar-vairagya) by P.Gopinath, Rashtriya Sanskrit
+Sansthanam, New Delhi.
+
+Course Outcomes
+
+Students will be able to
+
+8
+
+8
+
+67 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+1. Study of Shrimad-Bhagwad-Geeta will help the student in developing his personality and
+achieve the highest goal in life
+2. The person who has studied Geeta will lead the nation and mankind to peace and prosperity
+3. Study of Neetishatakam will help in developing versatile personality of students.
+
+68 | P a g e
+
+IKG GUJRAL PUNJAB TECHNICAL UNIVERSITY, KAPURTHALA
+M. TECH, COMPUTER SCIENCE & ENGINEERING
+
+LIST of EXPERIMENTS for
+LABORATORIES of M.TECH- CSE, 2018
+onwards
+By
+Board of Study- CSE; on 27th April 2018
+
+Department of Academics
+
+IK Gujral Punjab Technical University
+
+69 | P a g e
+
+IK Gujral Punjab Technical University
+M. Tech; Computer Science Engineering
+COURSE CODE: MTCS103-18
+COURSE NAME: LAB. ON ADVANCED DATA STRUCTURES
+CREDITS: 02, HOURS: 04
+Programs may be implemented using C/C++/java
+EXP 1:WAP to store k keys into an array of size n at the location computed using a hash
+function, loc = key % n, where k<=n and k takes values from [1 to m], m>n. To handle the
+collisions use the following collision resolution techniques,
+a. Linear probing
+b. Quadratic probing
+c. Double hashing/rehashing
+d. Chaining
+EXP 2: WAP for Binary Search Tree to implement following operations:
+a. Insertion
+b. Deletion i. Delete node with only child ii. Delete node with both children
+c. Finding an element
+d. Finding Min element
+e. Finding Max element
+f. Left child of the given node
+g. Right child of the given node
+h. Finding the number of nodes, leaves nodes, full nodes, ancestors, descendants.
+EXP 3: WAP for AVL Tree to implement following operations: (For nodes as integers)
+a. Insertion: Test program for all cases (LL, RR, RL, LR rotation)
+b. Deletion: Test Program for all cases (R0, R1, R-1, L0, L1, L-1)
+c. Display: using set notation.
+EXP 4: WAP to implement Red-Black trees with insertion and deletion operation for the given
+input data as Integers/Strings
+EXP 5:WAP to implement insertion, deletion, display and search operation in m-way B tree
+(i.e. a non-leaf node can have at most m children) for the given data as integers.
+EXP 6:WAP to perform string matching using Knuth-Morris-Pratt algorithm.
+EXP 7: WAP to perform string matching using Boyer-Moore algorithm.
+EXP 8:WAP to implement 2-D range search over computational geometry problem
+EXP 9:WAP on latest efficient algorithms on trees for solving contemporary problems.
+Mini Project: Student has to do a project assigned from course contents in a group of two or
+three students. The team will have to demonstrate as well as have to give a presentation of
+the same.
+COURSE CODE: MTCS104-18
+
+COURSE NAME: LABORATORY. 2 (BASED ON ELECTIVE I and II)
+CREDITS: 02, (Elective I + Elective II)
+HOURS: 2 hours for Lab based on ElectiveI & 2 hours for Lab based on Elective II
+|Page
+
+IK Gujral Punjab Technical University
+M. Tech; Computer Science Engineering
+
+ELECTIVE – I
+MACHINE LEARNING LAB: Programs may be implemented using WEKA/R/PYTHON etc.
+similar sofftwares
+Expt. 1:Study of platform for Implementation of Assignments
+Download the open source software of your interest. Document the distinct features and
+functionality of the software platform. You may choose WEKA, R or any other software.
+
+Expt. 2:Supervised Learning – Regression
+Generate a proper 2-D data set of N points.
+Split the data set into Training Data set and Test Data set.
+i)
+Perform linear regression analysis with Least Squares Method.
+ii)
+Plot the graphs for Training MSE and Test MSE and comment on Curve Fitting and
+Generalization Error.
+iii)
+Verify the Effect of Data Set Size and Bias-Variance Trade off.
+iv)
+Apply Cross Validation and plot the graphs for errors.
+v)
+Apply Subset Selection Method and plot the graphs for errors.
+Describe your findings in each case.
+Expt. 3:Supervised Learning – Classification
+Implement Naïve Bayes Classifier and K-Nearest Neighbour Classifier on Data set of your
+choice. Test and Compare for Accuracy and Precision.
+Expt. 4: Unsupervised Learning
+Implement K-Means Clustering and Hierarchical clustering on proper data set of your choice.
+Compare their Convergence.
+Expt. 5:Dimensionality Reduction
+Principal Component Analysis-Finding Principal Components, Variance and Standard Deviation
+calculations of principal components.
+Expt. 6: Supervised Learning and Kernel Methods
+Design, Implement SVM for classification with proper data set of your choice. Comment on
+Design and Implementation for Linearly non-separable Dataset.
+Mini Project: Student has to do a project assigned from course contents in a group of two or
+three students. The team will have to demonstrate as well as have to give a presentation of
+the same.
+
+WIRELESS SENSOR NETWORKS LAB:Programs may be implemented using NS2/NS3
+Expt. 1: Introduction to Network Simulators used for Wireless Sensor Networks.
+
+Expt. 2: Introduction to TCL scripting: Demonstration of one small network simulator setup.
+Expt. 3: To study various trace files formats of Network Simulators.
+|Page
+
+IK Gujral Punjab Technical University
+M. Tech; Computer Science Engineering
+Expt. 4: To create a sensor network setup using the nodes configured with fixed initial energy,
+transmission power, reception power, routing agent, transport agent and application in
+rectangular area.
+Expt. 5: Create different simulation scenarios by varying MAC protocols.
+Expt. 6: Compute the performance of above created simulation scenarios of network in terms
+of total energy consumption, transmission latency, number of packets generated, received
+and dropped.
+Expt. 7: To implement and compare various routing protocols using above mentioned
+performance metrics.
+Mini Project: Student has to do a project assigned from course contents in a group of two or
+three students. The team will have to demonstrate as well as have to give a presentation of
+the same.
+
+INTRODUCTION TO INTELLIGENT SYSTEMS LAB: Programs may be implemented using
+Matlab/Python
+Expt. 1: Implementation of simple artificial neural network.
+Expt. 2: Implementation of neural network with backpropagation.
+Expt. 3: Implementation of radial basis function network.
+Expt. 4: Implementation of recurrent neural network.
+Expt. 5: Implementation of fuzzy neural network.
+Expt. 6: Implementation of iterative deepening search.
+Expt. 7: Implementation of Hill climbing Search algorithm.
+Expt. 8: Implementation of optimization genetic algorithm.
+Expt. 9: Implementation of induction based learning method such as decision tree.
+Expt. 10: Implementation of statistical learning methods such as naive Bayes.
+Mini Project: Student has to do a project assigned from course contents in a group of two or
+three students. The group of students must submit a project report of 8 to 10 pages
+(approximately) and the team will have to demonstrate as well as have to give a presentation
+of the same.
+
+ELECTIVE – II
+DATA SCIENCE: Programs may be implemented using Matlab/Python/R
+
+Expt. 1: Introduction to R
+|Page
+
+IK Gujral Punjab Technical University
+M. Tech; Computer Science Engineering
+This Cycle introduces you to the use of the R statistical package within the Data Science and
+Big Data Analytics environment. After completing the tasks in this cycle you shouldableto:
+a. Read data sets into R,savethem, and examine thecontents.
+Tasks you will complete in this Cycle include:
+a. Invoke the R environment and examine the R workspace.
+b. Created table and datasets in R.
+c. Examine, manipulate and save datasets.
+d. Exit the R environment.
+Expt. 2: Basic Statistics and Visualization
+This Cycle introduces you to the analysis of data using the R statistical package within the Data
+Science and Big Data Analytics environment. After completing thetasks in Tins Cycle you
+should able to:
+a. Perform summary (descriptive) statistics on the datasets.
+b. Create basic visualizations using Rboth to support investigation of the data as well as
+exploration ofthedata.
+c. Create plot visualizations of thedata using a graphics package.
+Tasks you will complete in this Cycle include:
+a. ReloaddatasetsintotheRstatisticalpackage.
+b. Perform summary statistics onthedata.
+c. Remove outliersfromthedata.
+d. PlotthedatausingR.
+e. Plotthedatausinglatticeandggplot.
+Expt. 3: K-means Clustering
+This Cycle is designed to investigate and practice K-means Clustering. After completing the
+tasks in This Cycle you should able to:
+a. Use R functions to createK-means Clustering models.
+b. Use ODBC connection to the database and execute SQL statements and load datasets
+from the database in an R environment.
+c. Visualize the effectiveness of theK-means Clustering algorithm using graphic
+capabilitiesin R.
+d. Use the ODBC connection in the R environment to create the average household
+income from the census database as test data for K-means Clustering.
+e. Use R graphics functions to visualize the effectiveness of theK-means Clustering
+algorithm.
+Expt. 4: Association Rules
+This Cycle is designed to investigate and practice Association Rules. After completing tha tasks
+in This Cycle you should able to:
+a. Use R functions forAssociation Rule based models.
+Tasks you will complete in this Cycle include:
+
+a. UsetheR-Studioenvironment tocodeAssociationRulemodels.
+|Page
+
+IK Gujral Punjab Technical University
+M. Tech; Computer Science Engineering
+b. Applyconstraints in the Market Basket Analysismethods such asminimum thresholds
+onsupport and confidence measures that canbeused toselectinterestingrules
+fromthesetof allpossible rules.
+c. Use R graphics "arules" to execute andinspect the modelsandtheeffectof the various
+thresholds.
+Expt. 5: Linear Regression
+a. This Cycle is designed to investigate and practice linear regression. After completing
+tha tasks in This Cycle you should able to:
+a. Use R functions for Linear Regression (Ordinary Least Squares - OLS).
+b. Predict the dependent variables based on the model.
+c. Investigate different statistical parameter tests that measure the effectiveness of the
+model.
+Tasks you will complete inThis Cycle include:
+a. Use the R-Studio environment to code OLS models
+b. Review the methodology to validate the model and predict thedependent variable for
+a setof given independent variables
+c. Use R graphics functions to visualize the results generated with the mode
+Expt. 7: Naïve Bayesian Classifier
+This Cycle is designed to investigate and practice Navive Bayesian classifier. After completing
+the tasks in This Cycle you should able to:
+a. Use R functions for Naïve Bayesian Classification
+b. Apply the requirements for generating appropriate training data
+c. Validate the effectiveness of the Naïve Bayesian Classifier with the big data
+Tasks you will complete in Tins Cycle include:
+a. Use R-Studio environment to code the Naïve Bayesian Classifier
+b. Use the ODBC connectionto the"census"database to create a training data set for
+Naïve Bayesian Classifier from the big data.
+c. Use the Naive Bayesian Classifier program andevaluatehow well it predicts the results
+using the training data and then compare the results with original data.
+Expt. 8: Decision Trees
+This Cycle is designed to investigate and practice Decision Tree (DT ) models covered in the
+course work. After completing the tasks in This Cycle you should able to:
+a. Use R functions forDecision Tree models.
+b. Predict the outcome of an attribute base don’ the model.
+Tasks you wil lcomplete in This Cycle include:
+a. Use the R-Studio environment to code Decision Tree Models.
+b. BuildaDecision TreeModelbasedondatawhoseschema iscomposedofattributes.
+c. Predict the outcome of one attribute based on the model.
+
+|Page
+
+IK Gujral Punjab Technical University
+M. Tech; Computer Science Engineering
+Mini Project: Student has to do a project assigned from course contents in a group of two or
+three students. The team will have to demonstrate as well as have to give a presentation of
+the same.
+DISTRIBUTED SYSTEMS LAB: Programs may be implemented using any open source tool
+Expt. 1: Installation and configuration of database packages.
+Expt. 2: Creating and managing database objects(Tables, views, indexes etc.)
+Expt. 3: Creating and managing database security through user management.
+Expt. 4: Creating and maintaining database links.
+Expt. 5: Implement Partitioning on the database tables.
+Expt. 6:Implement various Transaction concurrency control methods [i.e. lock’s] by executing
+multiple update and queries.
+Expt. 7: Performance tuning of SQL queries.
+Mini Project: Student has to do a project assigned from course contents in a group of two or
+three students. The team will have to demonstrate as well as have to give a presentation of
+the same.
+
+ADVANCED WIRELESS AND MOBILE NETWORKS: Programs may be implemented using
+NS2/NS3/Omnet++
+Expt. 1: Setup & Configuration of Wireless Access Point (AP)
+Expt. 2:Study of WLAN: Ad Hoc & Infrastructure Mode
+Expt. 3:Study of Bluetooth Protocol and Applications
+Expt. 4:GSM modem study and SMS client-server application
+Expt. 5:Mobile Internet and WML
+Expt. 6:J2ME Program for Mobile Node Discovery
+Expt. 7:Mobile protocol study using omnet++
+Expt. 8:Wireless Network Security: kismet and Netstumbler
+
+Expt. 9:Design and Program Income Tax and Loan EMI Calculator for Mobile Phones
+Mini Project:Implementation of Mobile Network using Network Simulator (NS2/NS3)
+
+COURSE CODE: MTCS203-18
+COURSE NAME: LABORATORY 3; LAB. ON ADVANCED ALGORITHMS AND SOFT COMPUTING
+CREDITS: 02, HOURS: 04 per week
+ADVANCED ALGORITHMS: Programs may be implemented using C/C++/java
+
+|Page
+
+IK Gujral Punjab Technical University
+M. Tech; Computer Science Engineering
+Expt. 1: WAP to implement Dijkstra’s algorithm for single-source shortest path in a weighted
+directed
+graph.
+Expt. 2: WAP to find all-pairs shortest path using Floyd-Warshall algorithm.
+Expt. 3: WAP to find inverse of a triangular matrix using divide and conquer strategy.
+Expt. 4: WAP to convert base (decimal/hexa) representation to modulo representation.
+Expt. 5: WAP to implement FFT.
+SOFT COMPUTING: Programs may be implemented using Matlab/Python
+Expt. 1: WAP to implement array operations in Python
+Expt. 2: WAP to append strings using functions in Python
+Expt. 3: Study of Neural Network Tool Box/ use of Library functions
+Expt. 4: Study of Fuzzy Logic Tool Box/ use of Library functions
+Expt. 5: WAP to perform opeartions on fuzzy sets.
+Mini Project: Student has to do a project assigned from course contents in a group of two or
+three students. The team will have to demonstrate as well as have to give a presentation of
+the same.
+COURSE CODE: MTCS204-18
+COURSE NAME: LABORATORY 4 ; (BASED ON ELECTIVES)
+CREDITS: 02, (Elective III + Elective IV)
+HOURS: 2 hours for Lab based on Elective III & 2 hours for Lab based on Elective IV
+
+ELECTIVE – III
+DATA PREPARATION AND ANALYSIS LABORATORY: Programs to be implemented using WEKA.
+Expt. 1: Using weka tool to explore the data.
+Expt. 2: Using weka tool to do Parametric–Means.
+Expt. 3: Using weka tool to do Parametric -T-Test.
+Expt. 4: Using weka tool to do Correlation analysis
+Expt. 5: Preprocess the given data using weka tool.
+Expt. 6: Apply different classification techniques to classify the given data set.
+Expt. 7: Apply various clusteringtechniques to clusterthe data.
+Expt. 8: Apply various association rule mining algorithms.
+Expt. 9: Implement classification using Decision tree.
+Expt. 10: Apply Visualizationmethods using weka tool.
+
+Mini Project: Student has to do a project assigned from course contents in a group of two or
+three students. The team will have to demonstrate as well as have to give a presentation of
+the same.
+
+Secure Software Design and Enterprise Computing
+|Page
+
+IK Gujral Punjab Technical University
+M. Tech; Computer Science Engineering
+1.
+2.
+3.
+4.
+5.
+
+Write a program to implement authentication to prevent various attacks.
+Write a program to Limit or increasingly delay failed login attempts.
+Create a scenario to test authentication of various security attacks.
+Write a program to debug backdrop entry of given source code.
+Write a program to debug HTTP headers, input fields, hidden fields, drop down
+lists, and other web components.
+6. Write a program to test Input filtering via white list validation
+7. Create a scenario to Set Up Your Own Private Cloud Storage.
+8. Setup and configuration Various network services (DNS/ DHCP/ Terminal
+Services/ Clustering/ Web/ Email)
+9. Design and build a database using an enterprise database system
+10. Design and implement a directory-based server infrastructure in a
+heterogeneous systems environment.
+11. An attacker wishing to execute SQL injection manipulates a standard SQL
+query to exploit non-validated input vulnerabilities in a database. Show
+different ways that this attack vector can be executed.
+12. Install IBM Rhapsody Tool using NetBeans for Java and Junit (a unit testing
+tool).
+13. Create a Unified Modelling Language (UML) Class diagram and a UML
+Sequence diagram using IBM’s Rhapsody modelling tool.
+14. Configure NetBeans to use JUnit and test code written for the classes and
+methods described in the UML. .
+
+COMPUTER VISION LABORATORY: Programs may be implemented using
+MATLAB/C/C++/Java/Python on binary/grayscale/color images.
+Expt. 1: Implementation of basic image transformations:
+a. Log
+b. Power law
+c. Negation
+Expt. 2: Implementation the following:
+a. Histogram processing
+b. Histogram equalization/matching
+Expt. 3: Implementation of piecewise linear transformations
+a. Contrast stretching
+b. Grey level slicing
+c. Bit plane slicing
+Expt. 4: Implementation of image enhancement/smoothing using
+a. Linear (weighted and non-weighted filters)
+b. Order statistics filters (Nonlinear filters)
+i.
+Mean
+ii.
+Median
+
+|Page
+
+IK Gujral Punjab Technical University
+M. Tech; Computer Science Engineering
+iii.
+Min
+iv.
+Max
+v.
+Average
+Expt. 5: Implementation of image enhancement/sharpening using
+a. Laplacian operators
+b. Sobel’s operators
+c. Robert’s cross operators
+Expt. 6: Implement the 2D-DFT to obtain Fourier coefficients and reconstruct the image, i.e.,
+IDFT.
+Expt. 7: Implement image enhancement using Fourier low pass filters
+a. Ideal
+b. Butterworth
+c. Gaussian
+Expt. 8: Implement image enhancement using Fourier high pass filters
+a. Ideal
+b. Butterworth
+c. Gaussian
+Expt. 9: Implement algorithms to detect the following in an image
+a. Point
+b. Line
+c. Boundary
+Expt. 10: Implement Hough transform to detect a line.
+Mini Project: Student has to do a project assigned from course contents in a group of two or
+three students. The team will have to demonstrate as well as have to give a presentation of
+the same.
+
+|Page
+
+IK Gujral Punjab Technical University
+M. Tech; Computer Science Engineering
+ELECTIVE – IV
+Human and Computer Interaction Lab: Programs may be implemented usingC., C++,Python
+Expt. 1: To understand the trouble of interacting with computers - Redesign interfaces of
+home appliances.
+Expt. 2: Design a system based on user-centered approach.
+Expt.3: Understand the principles of good screen design.
+Expt.4: Redesign existing Graphical User Interface with screen complexity
+Expt.5: Implementation of Different Kinds of Menus
+Expt. 6: Implementation of Different Kinds of Windows
+Expt. 7: Design a system with proper guidelines for icons
+Mini Project: Student has to do a project assigned from course contents in a group of two
+or three students. The team will have to demonstrate as well as have to give a
+presentation of the same.
+
+GPU COMPUTING LABORATORY: Programs may be implemented using C.
+Expt. 1: Setting up Cuda environment.
+Expt. 2: Program for parallel matrix multiplication with Cuda.
+Expt. 3: Program to demonstrate grids, blocks and threads.
+Expt. 4: Program for parallel radix sort.
+Expt. 5: Demonstrate parallel reduction with Cuda.
+Expt. 6: Program to demonstrate parallel programming for merging two lists.
+Expt. 7: Program to demonstrate concept of global memory.
+Expt. 8: Program to demonstrate concept of multi-GPUs.
+Expt. 9: Program to demonstrate concept of profiling with parallel Nsight.
+Expt. 10: Implementation of deep networks for image classification with GPU programming.
+
+DIGITAL FORENSICS:Programs may be implemented usingtools mentioned below:
+1. SysInternals Suite
+Microsoft System utilities for diagnosis of Windows systems
+|Page
+
+IK Gujral Punjab Technical University
+M. Tech; Computer Science Engineering
+2. SANS SIFT
+SANS Investigate Forensic Toolkit (SIFT)
+3. Wireshark
+Network protocol analyzer
+4. Trinity Rescue Kit
+A Linux based recovery and repair toolkit for Windows computers.
+5. Kali Linux
+A Pen Test toolkit based on Linux. This should only be used to check your own
+equipment or equipment you have been asked to test.
+Expt. 1: To Develop multifaceted cyber-crime scenario (cyber-crime and cyber-terrorism)
+ Build a top-down systematic process
+ Structure the team and players
+ Use an integrated Framework (SI-FI)
+ Integrate GOTS, COTS, and R&D Tools
+ Use real investigators / compliment with technology experts
+ Carefully collect all data, decisions actions during experiment
+ Develop metrics for evaluation that match scenario
+ Quantify results
+Expt. 2: To perform packet-level analysis using appropriate tools (e.g., Wireshark, tcpdump).
+Expt. 3: To identify and extract data of forensic interest in diverse media (i.e., media forensics).
+
+Expt. 4: To identify, modify, and manipulate applicable system components within Windows,
+UNIX, or Linux (e.g., passwords, user accounts, files).
+Expt. 5: To collect, process, package, transport, and store electronic evidence to avoid
+alteration, loss, physical damage, or destruction of data.
+Expt. 6: To set up a forensic workstation.
+Expt. 7: To use forensic tool suites (e.g., EnCase, Sleuthkit, FTK).
+Expt. 8: To use virtual machines. (e.g., Microsoft Hyper-V, VMWare vSphere, Citrix
+XenDesktop/Server, Amazon Elastic Compute Cloud, etc.).
+Expt. 9: To conduct forensic analyses in multiple operating system environments (e.g., mobile
+device systems).
+Expt. 10: To analyze captured malicious code (e.g., malware forensics).
+Expt. 11: To use binary analysis tools (e.g., Hexedit, command code xxd, hexdump).
+Expt. 12: To implement one-way hash functions (e.g., Secure Hash Algorithm [SHA], Message
+Digest Algorithm [MD5]).
+Expt. 13: To analyze anomalous code as malicious or benign.
+Expt. 14: To identify obfuscation techniques.
+Expt. 15: To interpret results of debugger to ascertain tactics, techniques, and procedures.
+
+|Page
+
+
